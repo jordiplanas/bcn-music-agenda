@@ -9,11 +9,12 @@ import * as marula from "./marula.mjs";
 import * as lanau from "./lanau.mjs";
 import * as cat from "./cat.mjs";
 import * as heliogabal from "./heliogabal.mjs";
+import * as vol from "./vol.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_FILE = path.join(__dirname, "..", "..", "docs", "data", "events.json");
 
-const SCRAPERS = { robadors, deskomunal, diobar, marula, lanau, cat, heliogabal };
+const SCRAPERS = { robadors, deskomunal, diobar, marula, lanau, cat, heliogabal, vol };
 
 async function run() {
   const results = {};

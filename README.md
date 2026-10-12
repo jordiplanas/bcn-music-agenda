@@ -19,6 +19,6 @@ node server.mjs    # sirve docs/ en http://localhost:5500
 
 ## Salas cubiertas
 
-Diobar, L'Heliogàbal, La Nau, La Deskomunal, El CAT (Tradicionàrius), 23Robadors, Marula Café.
+Diobar, L'Heliogàbal, La Nau, La Deskomunal, El CAT (Tradicionàrius), 23Robadors, Marula Café, La Vol.
 
-Pendientes (requieren JS rendering o no tienen una agenda con fecha estructurada): La Vol, Oasys, L'Occulta, CC Albareda.
+Pendientes (requieren JS rendering o no tienen una agenda con fecha estructurada): Oasys, L'Occulta, CC Albareda.

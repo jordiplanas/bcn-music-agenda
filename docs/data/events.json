@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:23:42.206Z",
+  "generatedAt": "2026-10-12T15:49:35.366Z",
   "counts": {
     "robadors": 37,
     "deskomunal": 4,
@@ -7,7 +7,8 @@
     "marula": 5,
     "lanau": 71,
     "cat": 9,
-    "heliogabal": 40
+    "heliogabal": 40,
+    "vol": 182
   },
   "errors": {},
   "events": [
@@ -65,6 +66,17 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/13-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
+    },
+    {
+      "id": "la-vol-joel-nicolas-d-angel-2026-10-14",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Joel + nicolas d angel",
+      "start": "2026-10-14T17:45:00.000Z",
+      "url": "https://salavol.com/agenda/joel-nicolas-d-angel",
+      "image": null,
+      "price": "10/12€",
+      "source": "html-selectors"
     },
     {
       "id": "23robadors-basement-jazz-festival-w-sara-lilu-anggie-obin-meritxell-nedderman-eva-serrano-estefania-chamorro-2026-10-14",
@@ -155,6 +167,17 @@
       "source": "html-text-pattern"
     },
     {
+      "id": "la-vol-l-equipe-presenta-yung-rajola-2026-10-16",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "L'Equipe presenta: Yung Rajola",
+      "start": "2026-10-16T18:30:00.000Z",
+      "url": "https://salavol.com/agenda/lequipe-presenta-yung-rajola",
+      "image": null,
+      "price": "15/18€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-the-new-raemon-laia-cartro-2026-10-16",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -186,6 +209,17 @@
       "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/556f8e08156b78036509db867ed33c2e520f7d6f/event_gallery_POST_INSTA_SAUDADE___10_.png?v=1791543707",
       "price": "5€",
       "source": "jsonld"
+    },
+    {
+      "id": "la-vol-estadia-a-corto-plazo-animales-de-papel-2026-10-17",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Estadía A Corto Plazo + Animales de Papel",
+      "start": "2026-10-17T17:45:00.000Z",
+      "url": "https://salavol.com/agenda/estadia-a-corto-plazo-animales-de-papel",
+      "image": null,
+      "price": "7/10€",
+      "source": "html-selectors"
     },
     {
       "id": "23robadors-palosanto-vanesa-cortes-ainhoa-lara-albert-pons-alvaro-lopez-2026-10-17",
@@ -452,6 +486,17 @@
       "source": "html-text-pattern"
     },
     {
+      "id": "la-vol-directes-estrella-damm-150-mourn-2026-10-22",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "DIRECTES ESTRELLA DAMM 150: Mourn",
+      "start": "2026-10-22T18:30:00.000Z",
+      "url": "https://salavol.com/agenda/mourn",
+      "image": null,
+      "price": "10/13€",
+      "source": "html-selectors"
+    },
+    {
       "id": "23robadors-la-banda-del-poblenou-8211-presentacio-del-disc-ferestec-w-juan-de-diego-pau-domenech-david-parras-tuba-santi-colomer-2026-10-22",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
@@ -472,6 +517,17 @@
       "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/POINT.jpg",
       "price": null,
       "source": "jsonld"
+    },
+    {
+      "id": "la-vol-penelope-marti-bosch-2026-10-23",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Penélope + Martí Bosch",
+      "start": "2026-10-23T17:45:00.000Z",
+      "url": "https://salavol.com/agenda/penelope-marti-bosch",
+      "image": null,
+      "price": "10/12€",
+      "source": "html-selectors"
     },
     {
       "id": "23robadors-triangulo-do-mar-w-joao-balao-mariano-martos-marcelo-valente-2026-10-23",
@@ -549,6 +605,17 @@
       "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/Silitia-Borla-Deskomunal.png",
       "price": null,
       "source": "jsonld"
+    },
+    {
+      "id": "la-vol-the-lizards-spitfire-scream-2026-10-24",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "The Lizards + Spitfire Scream",
+      "start": "2026-10-24T17:45:00.000Z",
+      "url": "https://salavol.com/agenda/the-lizards",
+      "image": null,
+      "price": "12/15€",
+      "source": "html-selectors"
     },
     {
       "id": "23robadors-magda-mane-nito-albert-pons-antonio-villaverde-2026-10-24",
@@ -782,6 +849,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-dogteeth-woodchuck-tyld-2026-10-30",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Dogteeth + Woodchuck + TYLD",
+      "start": "2026-10-30T18:00:00.000Z",
+      "url": "https://salavol.com/agenda/tyld-dogteeth-woodchuck",
+      "image": null,
+      "price": "10/12€",
+      "source": "html-selectors"
+    },
+    {
       "id": "23robadors-lidia-mora-betiana-barros-edgar-platon-antonio-villaverde-2026-10-30",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
@@ -903,6 +981,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-deep-forest-2026-11-04",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Deep Forest",
+      "start": "2026-11-04T18:30:00.000Z",
+      "url": "https://salavol.com/agenda/deep-forest",
+      "image": null,
+      "price": "34.50/40€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-javiera-mena-2026-11-04",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -925,6 +1014,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-l-equipe-presenta-monstruo-laberinto-2026-11-05",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "L'Equipe presenta: Monstruo Laberinto",
+      "start": "2026-11-05T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/lequipe-presenta-monstruo-laberinto",
+      "image": null,
+      "price": "15/18€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-turkish-pop-night-2026-11-05",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -936,6 +1036,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-edna-bravo-2026-11-06",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Edna Bravo",
+      "start": "2026-11-06T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/edna-bravo",
+      "image": null,
+      "price": "16.69/18€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-allie-x-2026-11-07",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -944,6 +1055,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/allie-x-07-11-2026-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/ALLIEX_post_es-web-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-estrogenuinas-liquidacion-por-jubilacion-2026-11-07",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Estrogenuinas + Liquidación por jubilación",
+      "start": "2026-11-07T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/estrogenuinas-liquidacion-por-jubilacion",
+      "image": null,
+      "price": "12/15€",
       "source": "html-selectors"
     },
     {
@@ -966,6 +1088,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/porangui-10-11-2026-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/Porangui_web-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-oval-presenta-superfan-2026-11-11",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Oval presenta: Superfan",
+      "start": "2026-11-11T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/superfan",
+      "image": null,
+      "price": "15.99€",
       "source": "html-selectors"
     },
     {
@@ -1002,6 +1135,28 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-festival-empremtes-abril-2026-11-13",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Festival Empremtes: Abril",
+      "start": "2026-11-13T19:00:00.000Z",
+      "url": "https://salavol.com/agenda/abril",
+      "image": null,
+      "price": "16.50/18€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-apartamentos-acapulco-2026-11-14",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Apartamentos Acapulco",
+      "start": "2026-11-14T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/apartamentos-acapulco-2026",
+      "image": null,
+      "price": "17/20€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-tkm-2026-11-14",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1035,6 +1190,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-heavenphetamine-2026-11-18",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Heavenphetamine",
+      "start": "2026-11-18T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/heavenphetamine",
+      "image": null,
+      "price": "15/18€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-mt-jones-uk-2026-11-19",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1043,6 +1209,28 @@
       "url": "https://lanaubarcelona.es/ca/agenda/mt-jones-uk-19-11-2026-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/MTJones-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-l-equipe-presenta-rudiger-2026-11-19",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "L'Equipe presenta: Rüdiger",
+      "start": "2026-11-19T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/lequipe-presenta-rudiger",
+      "image": null,
+      "price": "10/12€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-eh-sona-toc-nize-2026-11-20",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "EH Sona: TOC + Nize",
+      "start": "2026-11-20T18:30:00.000Z",
+      "url": "https://salavol.com/agenda/eh-sona-toc-nize",
+      "image": null,
+      "price": "12/14€",
       "source": "html-selectors"
     },
     {
@@ -1065,6 +1253,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/los-vecinos-de-manue-21-11-2026/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/3f0c3bb3-238f-4489-8d0b-c0c0d6726687-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-chavalada-sound-presenta-nepal-nepal-2026-11-21",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Chavalada Sound presenta: Nepal Nepal",
+      "start": "2026-11-21T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/nepal-nepal",
+      "image": null,
+      "price": "15/18€",
       "source": "html-selectors"
     },
     {
@@ -1101,6 +1300,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-michel-cloup-trio-tiger-menja-zebra-2026-11-24",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Michel Cloup Trio + Tiger Menja Zebra",
+      "start": "2026-11-24T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/michel-cloup-trio-2026",
+      "image": null,
+      "price": "14/17€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-sbp4-2026-11-25",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1134,6 +1344,28 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-l-equipe-xtrarradio-presenten-dinosaur-pile-up-2026-11-27",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "L'Equipe & Xtrarradio presenten: Dinosaur Pile-Up",
+      "start": "2026-11-27T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/lequipe-xtrarradio-presenten-dinosaur-pile-up",
+      "image": null,
+      "price": "18/21€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-aie-presenta-orina-syd-depalma-2026-11-28",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Aie presenta: Orina + Syd dePalma",
+      "start": "2026-11-28T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/aie-presenta-orina",
+      "image": null,
+      "price": "12/15€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-la-tia-borracha-dj-florsha-2026-11-28",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1153,6 +1385,28 @@
       "url": "https://lanaubarcelona.es/ca/agenda/marco-castello-live-band-02-12-2026-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/marco-castello_web-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-montflorit-fulfilleds-2026-12-03",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Montflorit + Fulfilleds",
+      "start": "2026-12-03T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/montflorit-fulfilleds",
+      "image": null,
+      "price": "8/11€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-capros-piti-y-me-voy-2026-12-04",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Capros + Piti y me voy",
+      "start": "2026-12-04T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/capros",
+      "image": null,
+      "price": "12/15€",
       "source": "html-selectors"
     },
     {
@@ -1189,6 +1443,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-oval-presenta-leather-head-2026-12-10",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Oval presenta: leather.head",
+      "start": "2026-12-10T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/oval-presenta-leather-head",
+      "image": null,
+      "price": "14/16€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-tumbakin-en-concierto-2026-12-12",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1219,6 +1484,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/kalben-16-12-2026-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/KalbenWEB-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-buc1-segona-regional-2026-12-17",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Buc1 + Segona regional",
+      "start": "2026-12-17T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/buc1-segona-regional",
+      "image": null,
+      "price": "12/12€",
       "source": "html-selectors"
     },
     {
@@ -1255,6 +1531,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-humo-internacional-presenta-from-2026-12-18",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Humo Internacional presenta: From",
+      "start": "2026-12-18T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/humo-internacional-presenta-from",
+      "image": null,
+      "price": "15.20/18€",
+      "source": "html-selectors"
+    },
+    {
       "id": "el-cat-tradicionarius-els-quatrevents-circuit-folc-2026-trad-tardor-26-2026-12-19",
       "venue": "El CAT (Tradicionàrius)",
       "venueUrl": "http://www.tradicionarius.cat",
@@ -1266,6 +1553,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-gudar-los-mals-menors-2027-01-08",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Gúdar + Los Mals Menors",
+      "start": "2027-01-08T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/gudar-mals-menors",
+      "image": null,
+      "price": "12/15€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-ezezez-2027-01-08",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1274,6 +1572,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/ezezez-08-01-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/EZZE-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-chavalada-sound-presenta-for-your-information-montesco-2027-01-16",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Chavalada Sound presenta: For Your Information + Montesco",
+      "start": "2027-01-16T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/for-your-information-montesco",
+      "image": null,
+      "price": "12€",
       "source": "html-selectors"
     },
     {
@@ -1351,6 +1660,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/mescalina-tributo-a-radio-futura-el-ultimo-de-la-fila-y-heroes-del-silencio-29-01-2027-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/Portada-80sEnEspanol-web-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-chavalada-sound-presenta-grumpys-2027-01-29",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Chavalada Sound presenta: Grumpys",
+      "start": "2027-01-29T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/grumpys",
+      "image": null,
+      "price": "12€",
       "source": "html-selectors"
     },
     {
@@ -1475,6 +1795,28 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-chavalada-sound-presenta-marina-dominguez-la-rate-timide-2027-03-19",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Chavalada Sound presenta: Marina Domínguez + La Rate Timide",
+      "start": "2027-03-19T18:45:00.000Z",
+      "url": "https://salavol.com/agenda/chavalada-sound-presenta-marina-dominguez-la-rate-timide",
+      "image": null,
+      "price": "12€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-chavalada-sound-presenta-nadie-patin-2027-03-20",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Chavalada Sound presenta: Nadie Patín",
+      "start": "2027-03-20T19:30:00.000Z",
+      "url": "https://salavol.com/agenda/chavalada-sound-presenta-nadie-patin",
+      "image": null,
+      "price": "15€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-leo-maiello-2027-03-22",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1497,6 +1839,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-chavalada-sound-presenta-construimos-escaleras-2027-04-09",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Chavalada Sound presenta: Construimos Escaleras",
+      "start": "2027-04-09T17:45:00.000Z",
+      "url": "https://salavol.com/agenda/chavalada-sound-presenta-construimos-escaleras",
+      "image": null,
+      "price": "13€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-tributo-a-mana-jarabe-de-palo-los-rodriguez-por-mescalina-2027-04-09",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1505,6 +1858,28 @@
       "url": "https://lanaubarcelona.es/ca/agenda/mescalina-tributo-a-mana-jarabe-de-palo-los-rodriguez-10-04-2027-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/Portada-Raiz-Latina-WEB-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-chavalada-sound-presenta-ashleys-henshin-2027-04-10",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Chavalada Sound presenta: Ashleys + Henshin!",
+      "start": "2027-04-10T17:45:00.000Z",
+      "url": "https://salavol.com/agenda/chavalada-sound-presenta-ashleys-henshin",
+      "image": null,
+      "price": "12€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-chavalada-sound-presenta-baf-2027-04-24",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Chavalada Sound presenta: BAF",
+      "start": "2027-04-24T18:30:00.000Z",
+      "url": "https://salavol.com/agenda/chavalada-sound-presenta-baf",
+      "image": null,
+      "price": "12€",
       "source": "html-selectors"
     }
   ]
