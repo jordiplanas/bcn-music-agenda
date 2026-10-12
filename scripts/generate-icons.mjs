@@ -7,8 +7,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = path.join(__dirname, "..", "docs", "icons");
 mkdirSync(OUT_DIR, { recursive: true });
 
-const BG = [0x16, 0x18, 0x1f]; // --panel
-const NOTE = [0xff, 0x5d, 0x73]; // --accent
+const BG = [0x00, 0x00, 0x00]; // --bg
+const NOTE = [0xff, 0x3f, 0x00]; // --accent
 
 function crc32(buf) {
   let c;
