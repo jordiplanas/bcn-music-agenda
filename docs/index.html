@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Agenda Música Barcelona — Sales Petites</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+<style>
+  :root {
+    --bg: #0e0f13;
+    --panel: #16181f;
+    --border: #262835;
+    --text: #e8e9ee;
+    --muted: #9497a6;
+    --accent: #ff5d73;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+  }
+  header {
+    padding: 20px 24px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  header h1 { margin: 0 0 4px; font-size: 1.4rem; }
+  header p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+  #layout {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 20px;
+    padding: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  @media (max-width: 860px) {
+    #layout { grid-template-columns: 1fr; }
+  }
+  #venues {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px;
+    height: fit-content;
+  }
+  #venues h2 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); margin: 0 0 10px; }
+  .venue-check { display: flex; align-items: center; gap: 8px; padding: 5px 0; font-size: 0.9rem; cursor: pointer; }
+  .venue-check input { accent-color: var(--accent); }
+  .swatch { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+  #toggle-all { font-size: 0.78rem; color: var(--accent); background: none; border: none; cursor: pointer; padding: 0 0 10px; }
+  #calendar-wrap {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+  }
+  .fc { color: var(--text); }
+  .fc-theme-standard td, .fc-theme-standard th, .fc-theme-standard .fc-scrollgrid { border-color: var(--border); }
+  .fc-daygrid-day-number, .fc-col-header-cell-cushion { color: var(--text); }
+  .fc-day-today { background: rgba(255,93,115,0.08) !important; }
+  .fc-button-primary { background: #23263233 !important; border-color: var(--border) !important; }
+  .fc-button-primary:not(:disabled).fc-button-active, .fc-button-primary:not(:disabled):active { background: var(--accent) !important; border-color: var(--accent) !important; }
+  .fc-toolbar-title { font-size: 1.1rem !important; }
+  .fc-event { border: none; padding: 1px 2px; font-size: 0.78rem; cursor: pointer; }
+
+  #modal-backdrop {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.55);
+    align-items: center; justify-content: center;
+    z-index: 50;
+  }
+  #modal-backdrop.open { display: flex; }
+  #modal {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    max-width: 420px;
+    width: 90%;
+    padding: 20px;
+  }
+  #modal img { width: 100%; border-radius: 10px; margin-bottom: 12px; display: none; }
+  #modal h3 { margin: 0 0 6px; }
+  #modal .meta { color: var(--muted); font-size: 0.85rem; margin: 2px 0; }
+  #modal a.cta {
+    display: inline-block; margin-top: 14px; padding: 8px 14px;
+    background: var(--accent); color: white; text-decoration: none;
+    border-radius: 8px; font-size: 0.85rem;
+  }
+  #modal button.close {
+    float: right; background: none; border: none; color: var(--muted);
+    font-size: 1.1rem; cursor: pointer;
+  }
+  footer { text-align: center; color: var(--muted); font-size: 0.78rem; padding: 10px 0 24px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎵 Agenda Música Barcelona</h1>
+  <p>Conciertos en las salas pequeñas de directo de la ciudad · <span id="updated-at"></span></p>
+</header>
+
+<div id="layout">
+  <aside id="venues">
+    <h2>Salas</h2>
+    <button id="toggle-all">Marcar / desmarcar todas</button>
+    <div id="venue-list"></div>
+  </aside>
+  <div id="calendar-wrap">
+    <div id="calendar"></div>
+  </div>
+</div>
+
+<footer>Datos extraídos automáticamente de las webs de cada sala. Pueden cambiar o fallar — comprueba siempre en la web oficial.</footer>
+
+<div id="modal-backdrop">
+  <div id="modal">
+    <button class="close" aria-label="Tancar">✕</button>
+    <img id="modal-img" />
+    <h3 id="modal-title"></h3>
+    <p class="meta" id="modal-venue"></p>
+    <p class="meta" id="modal-date"></p>
+    <p class="meta" id="modal-price"></p>
+    <a class="cta" id="modal-link" target="_blank" rel="noopener">Ver en la web de la sala →</a>
+  </div>
+</div>
+
+<script>
+const PALETTE = ["#ff5d73", "#4fc1e9", "#f6bb42", "#a0d468", "#ac92ec", "#fc6e51", "#48cfad", "#ed5565", "#5d9cec"];
+
+function colorFor(venue, venues) {
+  const idx = venues.indexOf(venue);
+  return PALETTE[idx % PALETTE.length];
+}
+
+async function main() {
+  const res = await fetch("data/events.json");
+  const data = await res.json();
+
+  document.getElementById("updated-at").textContent =
+    "actualizado " + new Date(data.generatedAt).toLocaleString("es-ES");
+
+  const venues = [...new Set(data.events.map((e) => e.venue))].sort();
+  const venueListEl = document.getElementById("venue-list");
+  const enabled = new Set(venues);
+
+  venues.forEach((venue) => {
+    const label = document.createElement("label");
+    label.className = "venue-check";
+    label.innerHTML = `
+      <input type="checkbox" checked data-venue="${venue}" />
+      <span class="swatch" style="background:${colorFor(venue, venues)}"></span>
+      ${venue}
+    `;
+    venueListEl.appendChild(label);
+  });
+
+  const calendarEl = document.getElementById("calendar");
+  const calendar = new FullCalendar.Calendar(calendarEl, {
+    initialView: "dayGridMonth",
+    locale: "es",
+    height: "auto",
+    headerToolbar: { left: "prev,next today", center: "title", right: "dayGridMonth,listMonth" },
+    buttonText: { today: "hoy", month: "mes", list: "lista" },
+    events: [],
+    eventClick(info) {
+      info.jsEvent.preventDefault();
+      openModal(info.event.extendedProps.raw);
+    },
+  });
+  calendar.render();
+
+  function refreshEvents() {
+    const items = data.events
+      .filter((e) => enabled.has(e.venue))
+      .map((e) => ({
+        title: e.title,
+        start: e.start,
+        url: e.url,
+        color: colorFor(e.venue, venues),
+        extendedProps: { raw: e },
+      }));
+    calendar.removeAllEvents();
+    calendar.addEventSource(items);
+  }
+
+  venueListEl.addEventListener("change", (ev) => {
+    const venue = ev.target.dataset.venue;
+    if (ev.target.checked) enabled.add(venue);
+    else enabled.delete(venue);
+    refreshEvents();
+  });
+
+  document.getElementById("toggle-all").addEventListener("click", () => {
+    const allOn = enabled.size === venues.length;
+    venueListEl.querySelectorAll("input").forEach((cb) => (cb.checked = !allOn));
+    enabled.clear();
+    if (!allOn) venues.forEach((v) => enabled.add(v));
+    refreshEvents();
+  });
+
+  refreshEvents();
+
+  const backdrop = document.getElementById("modal-backdrop");
+  function openModal(e) {
+    document.getElementById("modal-title").textContent = e.title;
+    document.getElementById("modal-venue").textContent = e.venue;
+    document.getElementById("modal-date").textContent = new Date(e.start).toLocaleString("es-ES", {
+      weekday: "long", day: "numeric", month: "long", hour: "2-digit", minute: "2-digit",
+    });
+    document.getElementById("modal-price").textContent = e.price ? "Precio: " + e.price : "";
+    document.getElementById("modal-link").href = e.url;
+    const img = document.getElementById("modal-img");
+    if (e.image) { img.src = e.image; img.style.display = "block"; } else { img.style.display = "none"; }
+    backdrop.classList.add("open");
+  }
+  backdrop.addEventListener("click", (ev) => {
+    if (ev.target === backdrop || ev.target.classList.contains("close")) backdrop.classList.remove("open");
+  });
+}
+
+main().catch((err) => {
+  document.getElementById("calendar").textContent = "Error cargando eventos: " + err.message;
+  console.error(err);
+});
+</script>
+</body>
+</html>

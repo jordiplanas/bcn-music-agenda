@@ -1,0 +1,12 @@
+{
+  "name": "bcn-music-agenda",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node src/scrapers/index.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
