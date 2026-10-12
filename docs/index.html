@@ -4,6 +4,13 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Agenda Música Barcelona — Sales Petites</title>
+<link rel="manifest" href="manifest.json" />
+<meta name="theme-color" content="#16181f" />
+<link rel="icon" href="icons/icon-192.png" />
+<link rel="apple-touch-icon" href="icons/icon-180.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="Agenda BCN" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
 <style>
@@ -58,13 +65,22 @@
     padding: 16px;
   }
   .fc { color: var(--text); }
-  .fc-theme-standard td, .fc-theme-standard th, .fc-theme-standard .fc-scrollgrid { border-color: var(--border); }
+  .fc-theme-standard td, .fc-theme-standard th, .fc-theme-standard .fc-scrollgrid { border-color: var(--border); background: transparent; }
   .fc-daygrid-day-number, .fc-col-header-cell-cushion { color: var(--text); }
   .fc-day-today { background: rgba(255,93,115,0.08) !important; }
   .fc-button-primary { background: #23263233 !important; border-color: var(--border) !important; }
   .fc-button-primary:not(:disabled).fc-button-active, .fc-button-primary:not(:disabled):active { background: var(--accent) !important; border-color: var(--accent) !important; }
   .fc-toolbar-title { font-size: 1.1rem !important; }
   .fc-event { border: none; padding: 1px 2px; font-size: 0.78rem; cursor: pointer; }
+
+  /* list view ("lista"): FullCalendar's standard theme assumes a white page */
+  .fc-list, .fc-list-table, .fc-list-day-cushion, .fc-list-event td { background: transparent !important; }
+  .fc-list-day-cushion { color: var(--text) !important; font-weight: 600; }
+  .fc-list-day-text, .fc-list-day-side-text { color: var(--text) !important; }
+  .fc-list-event-time { color: var(--muted) !important; }
+  .fc-list-event-title a { color: var(--text) !important; text-decoration: none; }
+  .fc-list-event:hover td { background: rgba(255,255,255,0.05) !important; }
+  .fc-list-empty { background: transparent !important; color: var(--muted) !important; }
 
   #modal-backdrop {
     display: none;
@@ -226,6 +242,12 @@ main().catch((err) => {
   document.getElementById("calendar").textContent = "Error cargando eventos: " + err.message;
   console.error(err);
 });
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch((err) => console.error("SW registration failed", err));
+  });
+}
 </script>
 </body>
 </html>
