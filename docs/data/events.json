@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T12:32:39.533Z",
+  "generatedAt": "2026-10-14T10:00:41.552Z",
   "counts": {
-    "robadors": 35,
+    "robadors": 33,
     "deskomunal": 4,
-    "diobar": 8,
-    "marula": 5,
+    "diobar": 9,
+    "marula": 4,
     "lanau": 71,
     "cat": 9,
     "heliogabal": 40,
@@ -12,28 +12,6 @@
   },
   "errors": {},
   "events": [
-    {
-      "id": "23robadors-lidia-mora-noelia-lucas-adan-perez-nene-maya-2026-10-13",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "LIDIA MORA . NOELIA LUCAS . ADAN PEREZ . NENE MAYA",
-      "start": "2026-10-13T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/lidia-mora-noelia-lucas-adan-perez-nene-maya/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/13-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "23robadors-basement-jazz-festival-w-celeste-alias-elvira-barnadas-carla-motis-carla-gonzalez-2026-10-13",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "BASEMENT JAZZ FESTIVAL w/ CELESTE ALÍAS . ELVIRA BARNADAS . CARLA MOTIS . CARLA GONZÁLEZ",
-      "start": "2026-10-13T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/basement-jazz-festival-w-celeste-alias-elvira-barnadas-carla-motis-carla-gonzalez/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/13-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "la-vol-joel-nicolas-d-angel-2026-10-14",
       "venue": "La Vol",
@@ -46,6 +24,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-nau-indios-2026-10-14",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "INDIOS",
+      "start": "2026-10-14T20:30:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/indios-14-10-2026-2/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Captura-2026-08-10-a-las-14.03.52-260x260.png",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
       "id": "23robadors-basement-jazz-festival-w-sara-lilu-anggie-obin-meritxell-nedderman-eva-serrano-estefania-chamorro-2026-10-14",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
@@ -55,17 +44,6 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/14-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-indios-2026-10-14",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "INDIOS",
-      "start": "2026-10-14T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/indios-14-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Captura-2026-08-10-a-las-14.03.52-260x260.png",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "23robadors-alejandro-silverio-betiana-barros-victor-ramos-edgar-platon-2026-10-15",
@@ -486,6 +464,17 @@
       "source": "jsonld"
     },
     {
+      "id": "la-deskomunal-pastanaga-yaardies-endemic-sound-nouart-records-2026-10-23",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "PASTANAGA YAARDIES: ENDEMIC SOUND + NOUART RECORDS",
+      "start": "2026-10-23T00:00:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/pastanaga-yaardies-endemic-sound-nouart-records/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/pastanagaoct.jpeg",
+      "price": null,
+      "source": "jsonld"
+    },
+    {
       "id": "diobar-knockout-the-basement-tapes-230-2026-10-23",
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
@@ -849,6 +838,17 @@
       "source": "tribe-events-api"
     },
     {
+      "id": "diobar-check-in-blues-the-basement-tapes-231-2026-10-30",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Check In Blues ::: «The Basement Tapes #231»",
+      "start": "2026-10-30T20:00:00.000Z",
+      "url": "https://diobarbcn.com/event/check-in-blues-the-basement-tapes-231/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/f850461d761a4ce8c272616c7fc39fef19eeaf5c/event_gallery_261030-checkinblues.png?v=1791926656",
+      "price": "8.26€",
+      "source": "jsonld"
+    },
+    {
       "id": "l-heliogabal-mi-compa-el-chino-plastikboy-2026-10-30",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -880,17 +880,6 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/09/30-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
-    },
-    {
-      "id": "la-deskomunal-hartz-hashtack-eh-sona-2026-2026-10-31",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "HARTZ + HASHTACK. EH SONA 2026",
-      "start": "2026-10-31T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/hartz-hashtack-eh-sona-2026/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/Hartz-Hashtack-Deskomunal.png",
-      "price": null,
-      "source": "jsonld"
     },
     {
       "id": "la-nau-quintal-delas-2026-10-31",
