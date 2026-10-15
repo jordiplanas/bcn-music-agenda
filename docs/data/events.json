@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:00:41.552Z",
+  "generatedAt": "2026-10-15T09:43:00.553Z",
   "counts": {
     "robadors": 33,
     "deskomunal": 4,
@@ -12,39 +12,6 @@
   },
   "errors": {},
   "events": [
-    {
-      "id": "la-vol-joel-nicolas-d-angel-2026-10-14",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "Joel + nicolas d angel",
-      "start": "2026-10-14T19:45:00.000Z",
-      "url": "https://salavol.com/agenda/joel-nicolas-d-angel",
-      "image": null,
-      "price": "10/12€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-indios-2026-10-14",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "INDIOS",
-      "start": "2026-10-14T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/indios-14-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Captura-2026-08-10-a-las-14.03.52-260x260.png",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-basement-jazz-festival-w-sara-lilu-anggie-obin-meritxell-nedderman-eva-serrano-estefania-chamorro-2026-10-14",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "BASEMENT JAZZ FESTIVAL w/ SARA LILU . ANGGIE OBIN . MERITXELL NEDDERMAN . EVA SERRANO . ESTEFANÍA CHAMORRO",
-      "start": "2026-10-14T21:00:00.000Z",
-      "url": "https://23robadors.com/calendari/basement-jazz-festival-w-sara-lilu-anggie-obin-meritxell-nedderman-eva-serrano-estefania-chamorro/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/14-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "23robadors-alejandro-silverio-betiana-barros-victor-ramos-edgar-platon-2026-10-15",
       "venue": "23Robadors",
@@ -90,6 +57,17 @@
       "source": "tribe-events-api"
     },
     {
+      "id": "la-nau-the-new-raemon-laia-cartro-2026-10-16",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "THE NEW RAEMON + Laia Cartró",
+      "start": "2026-10-16T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/the-new-raemon-laia-cartro-16-10-2026-2/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/NewRaemon-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
       "id": "23robadors-irene-ribas-conchi-jimenez-ruben-heras-tomas-lorenzo-2026-10-16",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
@@ -120,17 +98,6 @@
       "url": "https://salavol.com/agenda/lequipe-presenta-yung-rajola",
       "image": null,
       "price": "15/18€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-the-new-raemon-laia-cartro-2026-10-16",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "THE NEW RAEMON + Laia Cartró",
-      "start": "2026-10-16T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/the-new-raemon-laia-cartro-16-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/NewRaemon-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -860,13 +827,13 @@
       "source": "html-text-pattern"
     },
     {
-      "id": "la-nau-stormy-2026-10-30",
+      "id": "la-nau-stormy-sold-out-2026-10-30",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
-      "title": "STORMY",
+      "title": "STORMY **SOLD OUT**",
       "start": "2026-10-30T21:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/stormy-30-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/STORMY-web-260x260.jpg",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/stormy-square-BCN-WEB-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
@@ -937,6 +904,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-nau-stormy-2026-11-01",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "STORMY",
+      "start": "2026-11-01T21:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/stormy-01-11-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/stormy-square-BCN-WEB-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-vengan-de-a-unx-peperina-2026-11-03",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -956,17 +934,6 @@
       "url": "https://salavol.com/agenda/deep-forest",
       "image": null,
       "price": "34.50/40€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-javiera-mena-2026-11-04",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "JAVIERA MENA",
-      "start": "2026-11-04T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/javiera-mena-04-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/JavieraMena-web-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1131,6 +1098,17 @@
       "start": "2026-11-14T22:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/tkm-14-11-2026/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/TKM-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-gaitas-celebrando-la-feria-de-la-chinita-2026-11-15",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "GAITAS Celebrando la Feria de la Chinita",
+      "start": "2026-11-15T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/gaitas-celebrando-la-feria-de-la-chinita-15-11-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/GAITAS-web-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
