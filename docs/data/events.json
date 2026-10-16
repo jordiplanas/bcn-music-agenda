@@ -1,72 +1,17 @@
 {
-  "generatedAt": "2026-10-15T09:43:00.553Z",
+  "generatedAt": "2026-10-16T09:35:03.610Z",
   "counts": {
-    "robadors": 33,
-    "deskomunal": 4,
+    "robadors": 30,
+    "deskomunal": 5,
     "diobar": 9,
     "marula": 4,
-    "lanau": 71,
+    "lanau": 70,
     "cat": 9,
     "heliogabal": 40,
     "vol": 183
   },
   "errors": {},
   "events": [
-    {
-      "id": "23robadors-alejandro-silverio-betiana-barros-victor-ramos-edgar-platon-2026-10-15",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "ALEJANDRO SILVERIO . BETIANA BARROS . VICTOR RAMOS . EDGAR PLATON",
-      "start": "2026-10-15T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/alejandro-silverio-betiana-barros-victor-ramos-edgar-platon/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/15-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-pacifica-2026-10-15",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "PACÍFICA",
-      "start": "2026-10-15T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/pacifica-15-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/PACIFICA_BARCELONA_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "l-heliogabal-el-micro-obert-2026-10-15",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "El Micro Obert",
-      "start": "2026-10-15T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/el-micro-obert/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/HELIO-MICRO_OBERT-POST.jpg",
-      "price": "5€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "23robadors-basement-jazz-festival-w-marta-garret-eva-fernandez-carla-motis-carla-gonzalez-andrea-gonzalez-2026-10-15",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "BASEMENT JAZZ FESTIVAL w/ MARTA GARRET . EVA FERNÁNDEZ . CARLA MOTIS . CARLA GONZÁLEZ . ANDREA GONZÁLEZ",
-      "start": "2026-10-15T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/basement-jazz-festival-w-marta-garret-eva-fernandez-carla-motis-carla-gonzalez-andrea-gonzalez/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/15-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-the-new-raemon-laia-cartro-2026-10-16",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "THE NEW RAEMON + Laia Cartró",
-      "start": "2026-10-16T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/the-new-raemon-laia-cartro-16-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/NewRaemon-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
     {
       "id": "23robadors-irene-ribas-conchi-jimenez-ruben-heras-tomas-lorenzo-2026-10-16",
       "venue": "23Robadors",
@@ -847,6 +792,17 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/09/30-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
+    },
+    {
+      "id": "la-deskomunal-hartz-hashtack-eh-sona-2026-2026-10-31",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "HARTZ + HASHTACK. EH SONA 2026",
+      "start": "2026-10-31T00:00:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/hartz-hashtack-eh-sona-2026/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/Hartz-Hashtack-Deskomunal.png",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "la-nau-quintal-delas-2026-10-31",
