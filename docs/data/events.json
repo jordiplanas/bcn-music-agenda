@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T09:35:03.610Z",
+  "generatedAt": "2026-10-17T09:05:26.992Z",
   "counts": {
-    "robadors": 30,
-    "deskomunal": 5,
-    "diobar": 9,
+    "robadors": 35,
+    "deskomunal": 6,
+    "diobar": 8,
     "marula": 4,
     "lanau": 70,
     "cat": 9,
@@ -12,61 +12,6 @@
   },
   "errors": {},
   "events": [
-    {
-      "id": "23robadors-irene-ribas-conchi-jimenez-ruben-heras-tomas-lorenzo-2026-10-16",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "IRENE RIBAS . CONCHI JIMENEZ . RUBEN HERAS . TOMAS LORENZO",
-      "start": "2026-10-16T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/irene-ribas-conchi-jimenez-ruben-heras-tomas-lorenzo/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/16-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "l-heliogabal-minova-2026-10-16",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Minova",
-      "start": "2026-10-16T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/minova/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/Minova-Esteve-Puig-2-scaled.jpg",
-      "price": "10€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-vol-l-equipe-presenta-yung-rajola-2026-10-16",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "L'Equipe presenta: Yung Rajola",
-      "start": "2026-10-16T20:30:00.000Z",
-      "url": "https://salavol.com/agenda/lequipe-presenta-yung-rajola",
-      "image": null,
-      "price": "15/18€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "diobar-saudade-a-festa-ultima-do-ano-2026-10-16",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Saudade - A Festa - Última do ano!",
-      "start": "2026-10-16T21:30:00.000Z",
-      "url": "https://diobarbcn.com/event/saudade-a-festa-02/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/556f8e08156b78036509db867ed33c2e520f7d6f/event_gallery_POST_INSTA_SAUDADE___10_.png?v=1791543707",
-      "price": "5€",
-      "source": "jsonld"
-    },
-    {
-      "id": "23robadors-basement-jazz-festival-w-claudia-urbano-lola-santiago-marina-calleja-eva-serrano-sara-martinez-2026-10-16",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "BASEMENT JAZZ FESTIVAL w/ CLAUDIA URBANO . LOLA SANTIAGO . MARINA CALLEJA . EVA SERRANO . SARA MARTINEZ",
-      "start": "2026-10-16T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/basement-jazz-festival-w-claudia-urbano-lola-santiago-marina-calleja-eva-serrano-sara-martinez/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/16-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "la-vol-estadia-a-corto-plazo-animales-de-papel-2026-10-17",
       "venue": "La Vol",
@@ -801,6 +746,17 @@
       "start": "2026-10-31T00:00:00.000Z",
       "url": "https://ladeskomunal.coop/agenda/hartz-hashtack-eh-sona-2026/",
       "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/Hartz-Hashtack-Deskomunal.png",
+      "price": null,
+      "source": "jsonld"
+    },
+    {
+      "id": "la-deskomunal-arana-club-8211-la-castanyada-2026-10-31",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "ARAÑA CLUB &#8211; LA CASTANYADA",
+      "start": "2026-10-31T00:00:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/arana-club-la-castanyada-2/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/ARANA-CARTEL-FIJO.png",
       "price": null,
       "source": "jsonld"
     },
@@ -1604,6 +1560,17 @@
       "start": "2027-02-05T00:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/ana-lua-caiano-05-02-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/Ana_web-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-jared-james-nichols-2027-02-10",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "JARED JAMES NICHOLS",
+      "start": "2027-02-10T21:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/jared-james-nichols-10-02-2027/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Jared_James_Nichols_WEB-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
