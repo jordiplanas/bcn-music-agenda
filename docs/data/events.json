@@ -1,83 +1,17 @@
 {
-  "generatedAt": "2026-10-17T09:05:26.992Z",
+  "generatedAt": "2026-10-18T09:24:25.620Z",
   "counts": {
-    "robadors": 35,
+    "robadors": 32,
     "deskomunal": 6,
-    "diobar": 8,
+    "diobar": 7,
     "marula": 4,
-    "lanau": 70,
+    "lanau": 69,
     "cat": 9,
     "heliogabal": 40,
     "vol": 183
   },
   "errors": {},
   "events": [
-    {
-      "id": "la-vol-estadia-a-corto-plazo-animales-de-papel-2026-10-17",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "Estadía A Corto Plazo + Animales de Papel",
-      "start": "2026-10-17T19:45:00.000Z",
-      "url": "https://salavol.com/agenda/estadia-a-corto-plazo-animales-de-papel",
-      "image": null,
-      "price": "7/10€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-palosanto-vanesa-cortes-ainhoa-lara-albert-pons-alvaro-lopez-2026-10-17",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "«PALOSANTO» VANESA CORTES . AINHOA LARA . ALBERT PONS . ALVARO LOPEZ",
-      "start": "2026-10-17T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/palo-santo-vanesa-cortes-ainhoa-lara-albert-pons-alvaro-lopez-38/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/17-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "diobar-la-414-sigue-vivo-2026-10-17",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "La 414 + Sigue Vivo",
-      "start": "2026-10-17T20:00:00.000Z",
-      "url": "https://diobarbcn.com/event/la-414-sigue-vivo/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/0093fcaa6b56b4485deb61e5358e96bd5252dcb6/event_gallery_261017-la414-siguevivo.jpeg?v=1790779008",
-      "price": "8.26€",
-      "source": "jsonld"
-    },
-    {
-      "id": "l-heliogabal-mariana-tambe-alba-morena-2026-10-17",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Mariana També Alba Morena",
-      "start": "2026-10-17T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/mariana-tambe-alba-morena/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/Alba_Morena-Marcos-Fairweather-Balmaseda.jpg",
-      "price": "11€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-nau-zenith-tributo-a-ghost-2026-10-17",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "ZENITH (TRIBUTO A GHOST)",
-      "start": "2026-10-17T21:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/zenith-tributo-a-ghost-17-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/ZENITH-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-deskomunal-los-disconautas-presenten-last-dance-2026-10-17",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "LOS DISCONAUTAS presenten “LAST DANCE?”",
-      "start": "2026-10-17T23:45:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/los-disconautas-presenten-last-dance/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/DISCONAUTAS-LAST-DANCE-POST-scaled.jpg",
-      "price": null,
-      "source": "jsonld"
-    },
     {
       "id": "la-nau-victor-guedez-ft-los-monos-voladores-del-sr-burns-2026-10-18",
       "venue": "La Nau",
