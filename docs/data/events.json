@@ -1,72 +1,17 @@
 {
-  "generatedAt": "2026-10-18T09:24:25.620Z",
+  "generatedAt": "2026-10-19T10:36:53.103Z",
   "counts": {
-    "robadors": 32,
-    "deskomunal": 6,
-    "diobar": 7,
+    "robadors": 24,
+    "deskomunal": 5,
+    "diobar": 6,
     "marula": 4,
-    "lanau": 69,
+    "lanau": 67,
     "cat": 9,
     "heliogabal": 40,
     "vol": 183
   },
   "errors": {},
   "events": [
-    {
-      "id": "la-nau-victor-guedez-ft-los-monos-voladores-del-sr-burns-2026-10-18",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "VÍCTOR GUÉDEZ ft. LOS MONOS VOLADORES del Sr. Burns",
-      "start": "2026-10-18T12:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/victor-guedez-ft-los-monos-voladores-del-sr-burns-04-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/VictorGuedez-1-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "diobar-alta-jam-zapada-show-de-rock-argentino-2026-10-18",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Alta Jam (zapada show de rock argentino)",
-      "start": "2026-10-18T17:30:00.000Z",
-      "url": "https://diobarbcn.com/event/alta-jam-zapada-de-rock-argentino-08/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/567608d43206d2ec1eeae93eedff54fb82e1787d/event_gallery_261018-altajam.jpeg?v=1790855486",
-      "price": "6.2€",
-      "source": "jsonld"
-    },
-    {
-      "id": "23robadors-monica-la-chicuela-pili-rodriguez-raquel-alegria-adan-perez-2026-10-18",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "MONICA LA CHICUELA . PILI RODRIGUEZ . RAQUEL ALEGRIA . ADAN PEREZ",
-      "start": "2026-10-18T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/monica-la-chicuela-pili-rodriguez-raquel-alegria-adan-perez-3/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/18-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-nice-guys-2026-10-18",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "NICE GUYS",
-      "start": "2026-10-18T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/nice-guys-18-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/NiceGuys-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "marula-cafe-dj-kusuri-2026-10-19",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "Dj Kusuri",
-      "start": "2026-10-19T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/dj-kusuri-4/",
-      "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
     {
       "id": "23robadors-victor-tostao-azahara-cantero-erica-ponce-javier-de-la-rosa-2026-10-19",
       "venue": "23Robadors",
@@ -83,7 +28,7 @@
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
       "title": "THE BAUSA",
-      "start": "2026-10-19T20:00:00.000Z",
+      "start": "2026-10-19T20:30:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/the-bausa-19-10-2026/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/TheBausa-copia-260x260.jpg",
       "price": null,
