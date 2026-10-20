@@ -1,61 +1,17 @@
 {
-  "generatedAt": "2026-10-19T10:36:53.103Z",
+  "generatedAt": "2026-10-20T09:54:07.022Z",
   "counts": {
     "robadors": 24,
     "deskomunal": 5,
-    "diobar": 6,
-    "marula": 4,
-    "lanau": 67,
+    "diobar": 8,
+    "marula": 3,
+    "lanau": 68,
     "cat": 9,
     "heliogabal": 40,
-    "vol": 183
+    "vol": 184
   },
   "errors": {},
   "events": [
-    {
-      "id": "23robadors-victor-tostao-azahara-cantero-erica-ponce-javier-de-la-rosa-2026-10-19",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "VICTOR TOSTAO . AZAHARA CANTERO . ERICA PONCE . JAVIER DE LA ROSA",
-      "start": "2026-10-19T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/victor-tostao-azahara-cantero-erica-ponce-javier-de-la-rosa/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/19-FLAM-1.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-the-bausa-2026-10-19",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "THE BAUSA",
-      "start": "2026-10-19T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/the-bausa-19-10-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/TheBausa-copia-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-moon-rays-by-joan-codina-w-marcel-li-bayer-albert-cirera-giuseppe-campisi-enric-fuster-2026-10-19",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "MOON RAYS BY JOAN CODINA w/ MARCEL.LÍ BAYER . ALBERT CIRERA . GIUSEPPE CAMPISI . ENRIC FUSTER",
-      "start": "2026-10-19T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/moon-rays-by-joan-codina-w-marcel-li-bayer-albert-cirera-giuseppe-campisi-enric-fuster/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/19-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "marula-cafe-yulie-2026-10-20",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "Yulie",
-      "start": "2026-10-20T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/yulie-8/",
-      "image": "https://marulacafe.com/wp-content/uploads/2025/06/dj-yulie-marula-cafe.jpeg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
     {
       "id": "23robadors-fran-carmona-paula-lopez-nito-adria-pueyo-2026-10-20",
       "venue": "23Robadors",
@@ -297,6 +253,17 @@
       "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/Silitia-Borla-Deskomunal.png",
       "price": null,
       "source": "jsonld"
+    },
+    {
+      "id": "l-heliogabal-fira-de-segells-discografics-2026-10-24",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Fira de Segells Discogràfics",
+      "start": "2026-10-24T11:30:00.000Z",
+      "url": "https://www.heliogabal.com/fira-segells/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/HELIO_IG_FIRA_LINEUP_OCTUBRE_2026.jpg",
+      "price": null,
+      "source": "html-text-pattern"
     },
     {
       "id": "la-vol-the-lizards-spitfire-scream-2026-10-24",
@@ -695,6 +662,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "diobar-volkanes-8211-tardeo-balkan-2026-11-01",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "VOLKANES &#8211; TARDEO BALKAN",
+      "start": "2026-11-01T13:45:35.000Z",
+      "url": "https://diobarbcn.com/event/tardeo-balkan/",
+      "image": "http://diobarbcn.com/wp-content/uploads/2026/10/TARDEO-BALKAN-VOLKANES.png",
+      "price": null,
+      "source": "jsonld"
+    },
+    {
       "id": "la-nau-stormy-2026-11-01",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -761,6 +739,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-multipla-2026-11-06",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Múltipla",
+      "start": "2026-11-06T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/multipla/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/Multipla-scaled.jpg",
+      "price": "12€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-vol-edna-bravo-2026-11-06",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -770,6 +759,17 @@
       "image": null,
       "price": "16.69/18€",
       "source": "html-selectors"
+    },
+    {
+      "id": "diobar-matu-mati-en-latin-undeground-diobar-2026-11-06",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "MATU MATI en Latin Undeground Diobar!",
+      "start": "2026-11-06T22:30:00.000Z",
+      "url": "https://diobarbcn.com/event/matu-mati-en-latin-undeground-diobar/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/364689aa4fbf9bc5026fee997b2dff468a88081a/event_gallery_AFICHE_MATU_MATI.jpeg?v=1792406500",
+      "price": "10.32€",
+      "source": "jsonld"
     },
     {
       "id": "la-nau-allie-x-2026-11-07",
@@ -792,6 +792,17 @@
       "image": null,
       "price": "12/15€",
       "source": "html-selectors"
+    },
+    {
+      "id": "l-heliogabal-fran-laoren-2026-11-07",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Fran Laoren",
+      "start": "2026-11-07T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/fran-laoren/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/fran-laoren-mientras-duermes-hyperpop-4.jpg",
+      "price": "11€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-nau-45-s-shootout-clash-2026-11-08",
@@ -838,6 +849,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-el-micro-obert-2026-11-12",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "El Micro Obert",
+      "start": "2026-11-12T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/open-mic/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/HELIO-MICRO_OBERT-POST.jpg",
+      "price": "5€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-nau-frazey-ford-2026-11-12",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -869,6 +891,28 @@
       "image": null,
       "price": "16.50/18€",
       "source": "html-selectors"
+    },
+    {
+      "id": "l-heliogabal-steven-munar-038-the-new-miracle-band-easy-love-2026-11-13",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Steven Munar &#038; The New Miracle Band  Easy Love",
+      "start": "2026-11-13T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/steven-munar-the-new-miracle-band-easy-love/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/STEVEN_MUNAR_02-Moon-Art-scaled.jpeg",
+      "price": "12€",
+      "source": "html-text-pattern"
+    },
+    {
+      "id": "l-heliogabal-montana-2026-11-14",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Montana",
+      "start": "2026-11-14T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/montana/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/MONTANA-1-scaled.jpg",
+      "price": "16€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-vol-apartamentos-acapulco-2026-11-14",
@@ -948,6 +992,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-ian-moya-carla-iglesias-marta-8217-s-2026-11-19",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Ian Moya  Carla Iglesias marta&#8217;s",
+      "start": "2026-11-19T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/ian-moya-carla-iglesias-martas/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/martas-Marta-Argemi-Farran.jpeg",
+      "price": "9€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-vol-l-equipe-presenta-rudiger-2026-11-19",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -981,6 +1036,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-ricardo-lezon-2026-11-20",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Ricardo Lezón",
+      "start": "2026-11-20T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/ricardo-lezon/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/RICARDOLEZON-Subterfuge-Records-1-scaled.jpg",
+      "price": "20€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-nau-los-vecinos-de-manue-2026-11-21",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -990,6 +1056,17 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/3f0c3bb3-238f-4489-8d0b-c0c0d6726687-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "l-heliogabal-mirena-kiu-2026-11-21",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Mirena Kiu",
+      "start": "2026-11-21T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/mirena-kiu/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/Kiu-Mirena-Nafarrate-1.jpeg",
+      "price": "10€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-vol-chavalada-sound-presenta-nepal-nepal-2026-11-21",
@@ -1058,6 +1135,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-isatofu-2026-11-26",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "IsaTofu",
+      "start": "2026-11-26T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/isatofu/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/IsaTofu-IsaTofu-1-scaled.jpg",
+      "price": "8€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-nau-romare-live-2026-11-26",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1078,6 +1166,17 @@
       "image": "http://www.tradicionarius.cat/ca_ES/media/dc5b8fd3096e22a927c089f30c8c4755.cms_570_570_196_196__/Solstici---Maria-Castell-amb-l'Esbart-Dansaire-de-Rub%C3%AD---+TR%C3%80D-Tardor%E2%80%9926.png",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "l-heliogabal-maria-fort-d-8217-marius-2026-11-27",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Maria Fort D&#8217;Marius",
+      "start": "2026-11-27T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/maria-fort/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/Foto-helio-maria-fort-1-scaled.jpg",
+      "price": "13€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-vol-l-equipe-xtrarradio-presenten-dinosaur-pile-up-2026-11-27",
@@ -1157,6 +1256,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-catarro-fest-roko-banana-daina-alavez-2026-12-05",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Catarro Fest: Roko Banana + Daina + Alavez",
+      "start": "2026-12-05T19:00:00.000Z",
+      "url": "https://salavol.com/agenda/catarro-fest-roko-banana-daina-alavez",
+      "image": null,
+      "price": "12/15€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-chico-chico-2026-12-08",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1198,6 +1308,17 @@
       "url": "https://salavol.com/agenda/oval-presenta-leather-head",
       "image": null,
       "price": "14/16€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-brothers-till-we-die-we-exist-even-dead-your-knife-my-back-aimless-2026-12-12",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "Brothers Till We Die + We Exist Even Dead + Your Knife My Back + Aimless",
+      "start": "2026-12-12T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/brothers-till-we-die-we-exist-even-dead-your-knife-my-back-aimless-12-12-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/YourKnife_web-260x260.jpg",
+      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1384,6 +1505,17 @@
       "start": "2027-01-22T00:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/cala-vento-22-01-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/CalaVento-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-pavvla-2027-01-23",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "PAVVLA",
+      "start": "2027-01-23T20:30:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/pavvla-23-01-2027/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Pavvla_Web-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
