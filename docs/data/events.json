@@ -1,50 +1,17 @@
 {
-  "generatedAt": "2026-10-20T09:54:07.022Z",
+  "generatedAt": "2026-10-21T09:55:06.738Z",
   "counts": {
-    "robadors": 24,
-    "deskomunal": 5,
-    "diobar": 8,
-    "marula": 3,
-    "lanau": 68,
+    "robadors": 26,
+    "deskomunal": 6,
+    "diobar": 9,
+    "marula": 2,
+    "lanau": 70,
     "cat": 9,
     "heliogabal": 40,
-    "vol": 184
+    "vol": 183
   },
   "errors": {},
   "events": [
-    {
-      "id": "23robadors-fran-carmona-paula-lopez-nito-adria-pueyo-2026-10-20",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "FRAN CARMONA . PAULA LOPEZ . NITO . ADRIA PUEYO",
-      "start": "2026-10-20T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/fran-carmona-paula-lopez-nito-adria-pueyo/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/20-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-corto-alto-2026-10-20",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "CORTO ALTO",
-      "start": "2026-10-20T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/corto-alto-20-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/corto.alto-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-giacomo-marzi-trio-w-lucas-herrera-fernandez-arturo-hintze-2026-10-20",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "GIACOMO MARZI TRIO w/ LUCAS HERRERA FERNÁNDEZ . ARTURO HINTZE",
-      "start": "2026-10-20T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/giacomo-marzi-trio-w-lucas-herrera-fernandez-arturo-hintze/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/20-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "la-nau-el-chacal-2026-10-21",
       "venue": "La Nau",
@@ -90,17 +57,6 @@
       "source": "tribe-events-api"
     },
     {
-      "id": "la-nau-madee-2026-10-22",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MADEE",
-      "start": "2026-10-22T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/madee-22-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Madee-1-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "el-cat-tradicionarius-anna-roig-i-carles-belda-circuit-folc-2026-trad-tardor-26-2026-10-22",
       "venue": "El CAT (Tradicionàrius)",
       "venueUrl": "http://www.tradicionarius.cat",
@@ -131,6 +87,17 @@
       "url": "https://salavol.com/agenda/mourn",
       "image": null,
       "price": "10/13€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-madee-2026-10-22",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "MADEE",
+      "start": "2026-10-22T21:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/madee-22-10-2026-2/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Madee-1-260x260.jpg",
+      "price": null,
       "source": "html-selectors"
     },
     {
@@ -165,6 +132,17 @@
       "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/pastanagaoct.jpeg",
       "price": null,
       "source": "jsonld"
+    },
+    {
+      "id": "la-nau-ozzmaniacs-y-we-rock-crazy-diver-tour-2026-10-23",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "OZZMANIACS Y WE ROCK (Crazy Diver Tour)",
+      "start": "2026-10-23T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/ozzmaniacs-y-we-rock-crazy-diver-tour-23-10-2026-2/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/we_rock-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
     },
     {
       "id": "diobar-knockout-the-basement-tapes-230-2026-10-23",
@@ -211,24 +189,13 @@
       "source": "html-text-pattern"
     },
     {
-      "id": "la-nau-ozzmaniacs-y-we-rock-crazy-diver-tour-2026-10-23",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "OZZMANIACS Y WE ROCK (Crazy Diver Tour)",
-      "start": "2026-10-23T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/ozzmaniacs-y-we-rock-crazy-diver-tour-23-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/we_rock-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "diobar-los-entre-patas-latin-underground-2026-10-23",
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
       "title": "Los Entre Patas - Latín Underground",
       "start": "2026-10-23T21:30:00.000Z",
       "url": "https://diobarbcn.com/event/los-entre-patas-latin-underground/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/9f60123e473f602e939e2e77a2dbf17a9078f3c8/event_gallery_c698a018-3759-4a4f-89f4-f7f7316097e5.jpeg?v=1791629999",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/9f60123e473f602e939e2e77a2dbf17a9078f3c8/event_gallery_c698a018-3759-4a4f-89f4-f7f7316097e5.jpeg?v=1792499964",
       "price": "10€",
       "source": "jsonld"
     },
@@ -308,6 +275,17 @@
       "image": "http://www.tradicionarius.cat/ca_ES/media/9d07e6824d3c6fbd5981f52bab005916.cms_570_570_196_196__/Yoel-Vargas---Ciutat-Flamenco---#elCATacull.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "la-deskomunal-la-sabrosura-la-nina-mai-peruchin-2026-10-24",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "LA SABROSURA: LA NIÑA MAI + PERUCHÍN",
+      "start": "2026-10-24T23:45:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/la-sabrosura-la-nina-mai-peruchin/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/SABROSURAOCT.jpeg",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "la-nau-happy-survival-2026-10-25",
@@ -849,6 +827,20 @@
       "source": "html-selectors"
     },
     {
+      "id": "diobar-scandalo-eros-cabaret-show-x-diobar-2026-11-12",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Scandalo - Eros Cabaret Show x DioBar",
+      "start": "2026-11-12T19:00:00.000Z",
+      "url": "https://diobarbcn.com/event/eroscabaretshow/",
+      "image": [
+        "https://uploads.tickettailorassets.com/c_scale,w_1920/v1/production/userfiles/qxyqotiaiem8jtaocihy.jpg?_a=BAAHWXDQ",
+        "https://uploads.tickettailorassets.com/c_scale,w_720/v1/production/userfiles/hj0a1usvpinatogpddk3.jpg?_a=BAAHWXDQ"
+      ],
+      "price": "26.5€",
+      "source": "jsonld"
+    },
+    {
       "id": "l-heliogabal-el-micro-obert-2026-11-12",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -1179,17 +1171,6 @@
       "source": "html-text-pattern"
     },
     {
-      "id": "la-vol-l-equipe-xtrarradio-presenten-dinosaur-pile-up-2026-11-27",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "L'Equipe & Xtrarradio presenten: Dinosaur Pile-Up",
-      "start": "2026-11-27T20:30:00.000Z",
-      "url": "https://salavol.com/agenda/lequipe-xtrarradio-presenten-dinosaur-pile-up",
-      "image": null,
-      "price": "18/21€",
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-eira-2026-11-27",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1198,6 +1179,17 @@
       "url": "https://salavol.com/agenda/eira-2",
       "image": null,
       "price": "10/12€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-mia-salazar-2026-11-28",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "MIA SALAZAR",
+      "start": "2026-11-28T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/mia-salazar-28-11-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/MiaSalazar-1-260x260.jpg",
+      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1417,6 +1409,17 @@
       "start": "2026-12-19T20:30:00.000Z",
       "url": "http://www.tradicionarius.cat/ca/els-quatrevents-_-circuit-folc-2026-_-_trad-tardor%E2%80%9926/programacio/2099",
       "image": "http://www.tradicionarius.cat/ca_ES/media/83eda5c4e2d2109c361ecd5914316759.cms_570_570_196_196__/Els-Quatrevents---Circuit-Folc-2026---+TR%C3%80D-Tardor%E2%80%9926.png",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-rock-en-familia-descubriendo-a-extremoduro-2026-12-20",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "ROCK EN FAMILIA. Descubriendo a EXTREMODURO",
+      "start": "2026-12-20T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/rock-en-familia-descubriendo-a-extremoduro-20-12-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/RockEnFamilia-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
@@ -1681,6 +1684,17 @@
       "start": "2027-03-13T22:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/de-acero-13-03-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/DeAcero-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-vargas-blues-band-2027-03-17",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "VARGAS BLUES BAND",
+      "start": "2027-03-17T21:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/vargas-blues-band-17-03-2027/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Vargas-Blues-Bandweb-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
