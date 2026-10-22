@@ -1,39 +1,17 @@
 {
-  "generatedAt": "2026-10-21T09:55:06.738Z",
+  "generatedAt": "2026-10-22T09:54:58.132Z",
   "counts": {
-    "robadors": 26,
+    "robadors": 28,
     "deskomunal": 6,
-    "diobar": 9,
-    "marula": 2,
-    "lanau": 70,
+    "diobar": 10,
+    "marula": 4,
+    "lanau": 69,
     "cat": 9,
     "heliogabal": 40,
-    "vol": 183
+    "vol": 185
   },
   "errors": {},
   "events": [
-    {
-      "id": "la-nau-el-chacal-2026-10-21",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "EL CHACAL",
-      "start": "2026-10-21T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/el-chacal-21-10-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Chacal-1-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-2026-10-21",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "AROUND THE SPACE BAND w/ MIGUEL VILLAR . JUAN PABLO BALCAZAR . CARLOS FALANGA",
-      "start": "2026-10-21T21:00:00.000Z",
-      "url": "https://23robadors.com/calendari/around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-39/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/08/2-JAM.jpg",
-      "price": "5€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "diobar-doble-o-nada-club-mediodia-paula-simon-2026-10-22",
       "venue": "Diobar",
@@ -563,6 +541,17 @@
       "source": "tribe-events-api"
     },
     {
+      "id": "diobar-barrio-adentro-en-latin-underground-diobar-2026-10-30",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Barrio Adentro en Latin Underground Diobar",
+      "start": "2026-10-30T22:30:00.000Z",
+      "url": "https://diobarbcn.com/event/barrio-adentro-en-latin-underground/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/5c2534341c04c995db24e72464908f843bec8bd9/event_gallery_barrio_adentro.png?v=1792578253",
+      "price": "10.32€",
+      "source": "jsonld"
+    },
+    {
       "id": "la-deskomunal-hartz-hashtack-eh-sona-2026-2026-10-31",
       "venue": "La Deskomunal",
       "venueUrl": "https://ladeskomunal.coop",
@@ -660,6 +649,28 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/stormy-square-BCN-WEB-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "marula-cafe-dj-kusuri-2026-11-02",
+      "venue": "Marula Café",
+      "venueUrl": "https://marulacafe.com",
+      "title": "Dj Kusuri",
+      "start": "2026-11-02T00:00:00.000Z",
+      "url": "https://marulacafe.com/evento/dj-kusuri-2/",
+      "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
+      "price": "9€",
+      "source": "html-text-pattern"
+    },
+    {
+      "id": "marula-cafe-j-glytta-2026-11-03",
+      "venue": "Marula Café",
+      "venueUrl": "https://marulacafe.com",
+      "title": "J Glytta",
+      "start": "2026-11-03T00:00:00.000Z",
+      "url": "https://marulacafe.com/evento/j-glytta-3/",
+      "image": "https://marulacafe.com/wp-content/uploads/2026/08/yulie.jpg",
+      "price": "9€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-nau-vengan-de-a-unx-peperina-2026-11-03",
@@ -1270,6 +1281,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-aqet-suc-ulls-secs-2026-12-09",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Aqet suc + Ulls secs",
+      "start": "2026-12-09T19:45:00.000Z",
+      "url": "https://salavol.com/agenda/aqet-suc-ulls-secs",
+      "image": null,
+      "price": "10/12€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-mamas-gun-uk-2026-12-10",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1740,6 +1762,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/hazlett-24-03-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/HAZ27_BCN_web-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-holywater-2027-04-02",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Holywater",
+      "start": "2027-04-02T20:30:00.000Z",
+      "url": "https://salavol.com/agenda/holywater",
+      "image": null,
+      "price": "15/18€",
       "source": "html-selectors"
     },
     {
