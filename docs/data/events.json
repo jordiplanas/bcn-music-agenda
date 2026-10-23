@@ -1,127 +1,17 @@
 {
-  "generatedAt": "2026-10-22T09:54:58.132Z",
+  "generatedAt": "2026-10-23T09:49:21.863Z",
   "counts": {
-    "robadors": 28,
+    "robadors": 22,
     "deskomunal": 6,
     "diobar": 10,
     "marula": 4,
     "lanau": 69,
-    "cat": 9,
+    "cat": 8,
     "heliogabal": 40,
-    "vol": 185
+    "vol": 187
   },
   "errors": {},
   "events": [
-    {
-      "id": "diobar-doble-o-nada-club-mediodia-paula-simon-2026-10-22",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Doble o Nada ::: Club Mediodía + Paula Simón",
-      "start": "2026-10-22T18:00:00.000Z",
-      "url": "https://diobarbcn.com/event/doble-o-nada-club-mediodia-paula-simon/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/df16d2660686459b07324014b9b5ca4199b56345/event_gallery_261022-paulasimon-clubmediodia.png?v=1790780319",
-      "price": "8.26€",
-      "source": "jsonld"
-    },
-    {
-      "id": "23robadors-luis-el-chico-lidia-laserna-sergio-di-finizio-albert-pons-israel-rockigitanp-2026-10-22",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "LUIS EL CHICO . LIDIA LASERNA . SERGIO DI FINIZIO . ALBERT PONS . ISRAEL ROCKIGITANP",
-      "start": "2026-10-22T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/luis-el-chico-lidia-laserna-sergio-di-finizio-albert-pons-israel-rockigitanp/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/22-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "el-cat-tradicionarius-anna-roig-i-carles-belda-circuit-folc-2026-trad-tardor-26-2026-10-22",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "Anna Roig i Carles Belda | Circuit Folc 2026 | +TRÀD Tardor’26",
-      "start": "2026-10-22T20:30:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/anna-roig-i-carles-belda-_-circuit-folc-2026-_-_trad-tardor%E2%80%9926/programacio/2094",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/85a355809a452ff0c3ca4df434a6e5cb.cms_570_570_196_196__/Anna-Roig-i-Carles-Belda---Circuit-Folc-2026---+TR%C3%80D-Tardor%E2%80%9926.png",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "l-heliogabal-starggirl-038-jailey-lil-jlayy-2026-10-22",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Starggirl &#038; Jailey Lil Jlayy",
-      "start": "2026-10-22T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/principal-starggirl-telonera-lil-jlayy/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/ConcertPosterGalaJaileyFinal-Sudor-Sudor.jpg",
-      "price": "10€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-vol-directes-estrella-damm-150-mourn-2026-10-22",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "DIRECTES ESTRELLA DAMM 150: Mourn",
-      "start": "2026-10-22T20:30:00.000Z",
-      "url": "https://salavol.com/agenda/mourn",
-      "image": null,
-      "price": "10/13€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-madee-2026-10-22",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MADEE",
-      "start": "2026-10-22T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/madee-22-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Madee-1-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-la-banda-del-poblenou-8211-presentacio-del-disc-ferestec-w-juan-de-diego-pau-domenech-david-parras-tuba-santi-colomer-2026-10-22",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "LA BANDA DEL POBLENOU &#8211; PRESENTACIÓ DEL DISC «FERÉSTEC» w/ JUAN DE DIEGO . PAU DOMENECH . DAVID PARRAS TUBA . SANTI COLOMER",
-      "start": "2026-10-22T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/la-banda-del-poblenou-presentacio-del-disc-ferestec-w-juan-de-diego-pau-domenech-david-parras-tuba-santi-colomer/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/22-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-deskomunal-point-of-no-return-machete-law-2026-10-23",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "POINT OF NO RETURN + MACHETE LAW",
-      "start": "2026-10-23T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/point-of-no-return-machete-law/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/POINT.jpg",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "la-deskomunal-pastanaga-yaardies-endemic-sound-nouart-records-2026-10-23",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "PASTANAGA YAARDIES: ENDEMIC SOUND + NOUART RECORDS",
-      "start": "2026-10-23T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/pastanaga-yaardies-endemic-sound-nouart-records/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/pastanagaoct.jpeg",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "la-nau-ozzmaniacs-y-we-rock-crazy-diver-tour-2026-10-23",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "OZZMANIACS Y WE ROCK (Crazy Diver Tour)",
-      "start": "2026-10-23T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/ozzmaniacs-y-we-rock-crazy-diver-tour-23-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/we_rock-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
     {
       "id": "diobar-knockout-the-basement-tapes-230-2026-10-23",
       "venue": "Diobar",
@@ -178,13 +68,13 @@
       "source": "jsonld"
     },
     {
-      "id": "23robadors-sebbe-noren-gonzalo-del-val-david-mengual-trio-2026-10-23",
+      "id": "23robadors-sebbe-noren-hugo-barrio-david-mengual-trio-2026-10-23",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
-      "title": "SEBBE NORÉN . GONZALO DEL VAL . DAVID MENGUAL TRÍO",
+      "title": "SEBBE NORÉN . HUGO BARRIO . DAVID MENGUAL TRÍO",
       "start": "2026-10-23T22:00:00.000Z",
       "url": "https://23robadors.com/calendari/sebbe-noren-gonzalo-del-val-david-mengual-trio/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/23-JAZZ.jpg",
+      "image": "https://23robadors.com/wp-content/uploads/2026/09/23-JAZZ-1.jpg",
       "price": "10€",
       "source": "tribe-events-api"
     },
@@ -585,13 +475,13 @@
       "source": "html-selectors"
     },
     {
-      "id": "23robadors-sarsale-ramon-el-tato-violeta-barrio-albert-pons-oscar-puig-2026-10-31",
+      "id": "23robadors-sarsale-ramon-el-tato-nito-albert-pons-oscar-puig-2026-10-31",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
-      "title": "«SARSALÉ» RAMON EL TATO . VIOLETA BARRIO . ALBERT PONS . OSCAR PUIG",
+      "title": "«SARSALÉ» RAMON EL TATO . NITO . ALBERT PONS . OSCAR PUIG",
       "start": "2026-10-31T20:00:00.000Z",
       "url": "https://23robadors.com/calendari/sarsale-ramon-el-tato-violeta-barrio-albert-pons-oscar-puig-13/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM.jpg",
+      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM-1.jpg",
       "price": "10€",
       "source": "tribe-events-api"
     },
@@ -624,7 +514,7 @@
       "title": "2º REENCUENTRO SALSERO",
       "start": "2026-11-01T00:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/2o-reencuentro-salsero-01-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/VermutSalsero2-260x260.jpg",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/VermutSalsero3-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
@@ -633,8 +523,8 @@
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
       "title": "VOLKANES &#8211; TARDEO BALKAN",
-      "start": "2026-11-01T13:45:35.000Z",
-      "url": "https://diobarbcn.com/event/tardeo-balkan/",
+      "start": "2026-11-01T17:00:00.000Z",
+      "url": "https://diobarbcn.com/event/volkanes-tardeo-balkan/",
       "image": "http://diobarbcn.com/wp-content/uploads/2026/10/TARDEO-BALKAN-VOLKANES.png",
       "price": null,
       "source": "jsonld"
@@ -783,6 +673,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "diobar-rachel-arieff-s-anti-karaoke-november-at-diobar-2026-11-07",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Rachel Arieff's Anti-Karaoke November at Diobar",
+      "start": "2026-11-07T20:00:00.000Z",
+      "url": "https://diobarbcn.com/event/anti-karaoke-en-diobar-15/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/96f728b098964b4bad9f0acc860fd3ac22ef8013/event_gallery_A3_AK_Bcn_November_2026_QR__1_.png?v=1791823118",
+      "price": "15.78€",
+      "source": "jsonld"
+    },
+    {
       "id": "l-heliogabal-fran-laoren-2026-11-07",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -801,6 +702,17 @@
       "start": "2026-11-08T00:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/45s-shootout-clash-08-11-2026/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/SHOT-OUT-CLASH-WEB-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-rockpelsxuklis-2026-11-08",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "ROCKPELSXUKLIS",
+      "start": "2026-11-08T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/rockpelsxuklis-08-11-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/RockpelsXuclis-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
@@ -1138,6 +1050,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-bar-llorenc-dolores-jaume-2026-11-26",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Bar Llorenç + Dolores Jaume",
+      "start": "2026-11-26T19:45:00.000Z",
+      "url": "https://salavol.com/agenda/bar-llorenc-dolores-jaume",
+      "image": null,
+      "price": "12/15€",
+      "source": "html-selectors"
+    },
+    {
       "id": "l-heliogabal-isatofu-2026-11-26",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -1421,6 +1344,17 @@
       "url": "https://salavol.com/agenda/humo-internacional-presenta-from",
       "image": null,
       "price": "15.20/18€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-bloody-fest-serapis-project-whitedemon-strayed-from-will-2026-12-19",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Bloody Fest: Serapis Project + Whitedemon + Strayed from Will",
+      "start": "2026-12-19T19:00:00.000Z",
+      "url": "https://salavol.com/agenda/bloody-fest-serapis-project-whitedemon-strayed-from-will",
+      "image": null,
+      "price": "12/15€",
       "source": "html-selectors"
     },
     {
