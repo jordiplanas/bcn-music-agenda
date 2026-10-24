@@ -1,94 +1,17 @@
 {
-  "generatedAt": "2026-10-23T09:49:21.863Z",
+  "generatedAt": "2026-10-24T09:21:47.226Z",
   "counts": {
-    "robadors": 22,
-    "deskomunal": 6,
-    "diobar": 10,
+    "robadors": 19,
+    "deskomunal": 7,
+    "diobar": 8,
     "marula": 4,
-    "lanau": 69,
+    "lanau": 68,
     "cat": 8,
     "heliogabal": 40,
     "vol": 187
   },
   "errors": {},
   "events": [
-    {
-      "id": "diobar-knockout-the-basement-tapes-230-2026-10-23",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Knockout ::: «The Basement Tapes #230»",
-      "start": "2026-10-23T19:00:00.000Z",
-      "url": "https://diobarbcn.com/event/knockout-the-basement-tapes-230/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/1f294ea676c471eeb798270203c8c17b03164912/event_gallery_261023-knockout.jpg?v=1791731644",
-      "price": "8.26€",
-      "source": "jsonld"
-    },
-    {
-      "id": "la-vol-penelope-marti-bosch-2026-10-23",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "Penélope + Martí Bosch",
-      "start": "2026-10-23T19:45:00.000Z",
-      "url": "https://salavol.com/agenda/penelope-marti-bosch",
-      "image": null,
-      "price": "10/12€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-triangulo-do-mar-w-joao-balao-mariano-martos-marcelo-valente-2026-10-23",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "TRIANGULO DO MAR w/ JOAO BALAO . MARIANO MARTOS . MARCELO VALENTE",
-      "start": "2026-10-23T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/triangulo-do-mar-w-joao-balao-mariano-martos-marcelo-valente/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/22-WORLD.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "l-heliogabal-bru-2026-10-23",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "BRU",
-      "start": "2026-10-23T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/bru/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/BRU-1-scaled.jpg",
-      "price": "10€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "diobar-los-entre-patas-latin-underground-2026-10-23",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Los Entre Patas - Latín Underground",
-      "start": "2026-10-23T21:30:00.000Z",
-      "url": "https://diobarbcn.com/event/los-entre-patas-latin-underground/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/9f60123e473f602e939e2e77a2dbf17a9078f3c8/event_gallery_c698a018-3759-4a4f-89f4-f7f7316097e5.jpeg?v=1792499964",
-      "price": "10€",
-      "source": "jsonld"
-    },
-    {
-      "id": "23robadors-sebbe-noren-hugo-barrio-david-mengual-trio-2026-10-23",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "SEBBE NORÉN . HUGO BARRIO . DAVID MENGUAL TRÍO",
-      "start": "2026-10-23T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/sebbe-noren-gonzalo-del-val-david-mengual-trio/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/23-JAZZ-1.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-deskomunal-silitia-borla-eh-sona-2026-2026-10-24",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "SILITIA + BORLA. EH SONA 2026",
-      "start": "2026-10-24T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/silitia-borla-eh-sona-2026/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/Silitia-Borla-Deskomunal.png",
-      "price": null,
-      "source": "jsonld"
-    },
     {
       "id": "l-heliogabal-fira-de-segells-discografics-2026-10-24",
       "venue": "L'Heliogàbal",
@@ -492,8 +415,8 @@
       "title": "¡El Gozón de Halloween!",
       "start": "2026-10-31T20:00:00.000Z",
       "url": "https://diobarbcn.com/event/el-gozon-de-halloween/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/9354bbb5df06a8dcc839414348813228f068b04c/event_gallery_261031-champetizate.jpeg?v=1791189453",
-      "price": "8.26€",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/9354bbb5df06a8dcc839414348813228f068b04c/event_gallery_261031-champetizate.jpeg?v=1792768692",
+      "price": "5.17€",
       "source": "jsonld"
     },
     {
@@ -605,6 +528,17 @@
       "image": null,
       "price": "15/18€",
       "source": "html-selectors"
+    },
+    {
+      "id": "la-deskomunal-10-anys-d-8217-indie-lovers-2026-11-06",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "10 ANYS D&#8217;INDIE LOVERS",
+      "start": "2026-11-06T00:00:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/10-anys-dindie-lovers/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/INDIEOCT3.jpg",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "la-nau-turkish-pop-night-2026-11-06",
