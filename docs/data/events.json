@@ -1,94 +1,17 @@
 {
-  "generatedAt": "2026-10-24T09:21:47.226Z",
+  "generatedAt": "2026-10-25T09:38:55.903Z",
   "counts": {
-    "robadors": 19,
-    "deskomunal": 7,
-    "diobar": 8,
-    "marula": 4,
-    "lanau": 68,
-    "cat": 8,
+    "robadors": 20,
+    "deskomunal": 6,
+    "diobar": 9,
+    "marula": 6,
+    "lanau": 67,
+    "cat": 7,
     "heliogabal": 40,
     "vol": 187
   },
   "errors": {},
   "events": [
-    {
-      "id": "l-heliogabal-fira-de-segells-discografics-2026-10-24",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Fira de Segells Discogràfics",
-      "start": "2026-10-24T11:30:00.000Z",
-      "url": "https://www.heliogabal.com/fira-segells/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/HELIO_IG_FIRA_LINEUP_OCTUBRE_2026.jpg",
-      "price": null,
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-vol-the-lizards-spitfire-scream-2026-10-24",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "The Lizards + Spitfire Scream",
-      "start": "2026-10-24T19:45:00.000Z",
-      "url": "https://salavol.com/agenda/the-lizards",
-      "image": null,
-      "price": "12/15€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-magda-mane-nito-albert-pons-antonio-villaverde-2026-10-24",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "MAGDA MAÑE . NITO . ALBERT PONS . ANTONIO VILLAVERDE",
-      "start": "2026-10-24T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/magda-mane-nito-albert-pons-antonio-villaverde/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/24-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-boris-2026-10-24",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "BORIS",
-      "start": "2026-10-24T20:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/boris-24-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Boris-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "el-cat-tradicionarius-yoel-vargas-ciutat-flamenco-elcatacull-2026-10-24",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "Yoel Vargas | Ciutat Flamenco | #elCATacull",
-      "start": "2026-10-24T20:00:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/yoel-vargas-_-ciutat-flamenco-_-_elcatacull/programacio/2102",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/9d07e6824d3c6fbd5981f52bab005916.cms_570_570_196_196__/Yoel-Vargas---Ciutat-Flamenco---#elCATacull.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-deskomunal-la-sabrosura-la-nina-mai-peruchin-2026-10-24",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "LA SABROSURA: LA NIÑA MAI + PERUCHÍN",
-      "start": "2026-10-24T23:45:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/la-sabrosura-la-nina-mai-peruchin/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/SABROSURAOCT.jpeg",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "la-nau-happy-survival-2026-10-25",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "HAPPY SURVIVAL",
-      "start": "2026-10-25T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/happy-survival-25-10-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Azadi-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
     {
       "id": "la-nau-90tazos-band-2026-10-25",
       "venue": "La Nau",
@@ -651,6 +574,28 @@
       "source": "html-selectors"
     },
     {
+      "id": "marula-cafe-dj-kusuri-2026-11-09",
+      "venue": "Marula Café",
+      "venueUrl": "https://marulacafe.com",
+      "title": "Dj Kusuri",
+      "start": "2026-11-09T00:00:00.000Z",
+      "url": "https://marulacafe.com/evento/dj-kusuri-3/",
+      "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
+      "price": "9€",
+      "source": "html-text-pattern"
+    },
+    {
+      "id": "marula-cafe-j-glytta-2026-11-10",
+      "venue": "Marula Café",
+      "venueUrl": "https://marulacafe.com",
+      "title": "J Glytta",
+      "start": "2026-11-10T00:00:00.000Z",
+      "url": "https://marulacafe.com/evento/j-glytta-4/",
+      "image": "https://marulacafe.com/wp-content/uploads/2026/08/yulie.jpg",
+      "price": "9€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-nau-porangui-2026-11-10",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1114,6 +1059,17 @@
       "image": null,
       "price": "12/15€",
       "source": "html-selectors"
+    },
+    {
+      "id": "diobar-dance-with-the-greeks-party-2026-12-04",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Dance With The Greeks Party",
+      "start": "2026-12-04T20:00:00.000Z",
+      "url": "https://diobarbcn.com/event/dance-with-the-greeks-party/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/520123ec635b19fb3401971e591b857a47fef97b/event_gallery_Cream_Minimalist_Page_Border.png?v=1792841697",
+      "price": "12.38€",
+      "source": "jsonld"
     },
     {
       "id": "la-vol-catarro-fest-roko-banana-daina-alavez-2026-12-05",
