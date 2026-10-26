@@ -1,50 +1,17 @@
 {
-  "generatedAt": "2026-10-25T09:38:55.903Z",
+  "generatedAt": "2026-10-26T10:51:52.918Z",
   "counts": {
-    "robadors": 20,
-    "deskomunal": 6,
-    "diobar": 9,
-    "marula": 6,
-    "lanau": 67,
+    "robadors": 30,
+    "deskomunal": 4,
+    "diobar": 11,
+    "marula": 5,
+    "lanau": 65,
     "cat": 7,
     "heliogabal": 40,
-    "vol": 187
+    "vol": 188
   },
   "errors": {},
   "events": [
-    {
-      "id": "la-nau-90tazos-band-2026-10-25",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "90Tazos Band",
-      "start": "2026-10-25T12:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/90tazos-band-25-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/90tazos_vermut-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-naranjita-de-triana-ramon-pinas-nito-tomas-lorenzo-2026-10-25",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "NARANJITA DE TRIANA . RAMON PIÑAS . NITO . TOMAS LORENZO",
-      "start": "2026-10-25T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/naranjita-de-triana-ramon-pinas-nito-tomas-lorenzo/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/25-FLAM-1.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "marula-cafe-dj-kusuri-2026-10-26",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "Dj Kusuri",
-      "start": "2026-10-26T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/dj-kusuri/",
-      "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
     {
       "id": "23robadors-irene-zugaza-betiana-barros-berta-vila-oscar-mathieu-2026-10-26",
       "venue": "23Robadors",
@@ -321,13 +288,13 @@
       "source": "html-selectors"
     },
     {
-      "id": "23robadors-sarsale-ramon-el-tato-nito-albert-pons-oscar-puig-2026-10-31",
+      "id": "23robadors-sarsale-ramon-el-tato-violeta-barrio-albert-pons-oscar-puig-2026-10-31",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
-      "title": "«SARSALÉ» RAMON EL TATO . NITO . ALBERT PONS . OSCAR PUIG",
+      "title": "«SARSALÉ» RAMON EL TATO . VIOLETA BARRIO . ALBERT PONS . OSCAR PUIG",
       "start": "2026-10-31T20:00:00.000Z",
       "url": "https://23robadors.com/calendari/sarsale-ramon-el-tato-violeta-barrio-albert-pons-oscar-puig-13/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM-1.jpg",
+      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM.jpg",
       "price": "10€",
       "source": "tribe-events-api"
     },
@@ -552,6 +519,17 @@
       "source": "html-text-pattern"
     },
     {
+      "id": "la-deskomunal-luis-enrique-mejia-godoy-2026-11-08",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "LUIS ENRIQUE MEJÍA GODOY",
+      "start": "2026-11-08T00:00:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/luis-enrique-mejia-godoy/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/LUIS-ENRIQUE-MEJIA-GODOY.jpg",
+      "price": null,
+      "source": "jsonld"
+    },
+    {
       "id": "la-nau-45-s-shootout-clash-2026-11-08",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -574,6 +552,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "diobar-alta-jam-show-zapada-de-rock-argentino-2026-11-08",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "ALTA JAM ( show Zapada de Rock Argentino )",
+      "start": "2026-11-08T18:30:00.000Z",
+      "url": "https://diobarbcn.com/event/zapada-de-rock-argentino-barcelona/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/96e3c4018fb33412c9856785312b2ce8e4c6730c/event_gallery_WhatsApp_Image_2026-10-25_at_13.34.10.jpeg?v=1792934364",
+      "price": "10.32€",
+      "source": "jsonld"
+    },
+    {
       "id": "marula-cafe-dj-kusuri-2026-11-09",
       "venue": "Marula Café",
       "venueUrl": "https://marulacafe.com",
@@ -581,17 +570,6 @@
       "start": "2026-11-09T00:00:00.000Z",
       "url": "https://marulacafe.com/evento/dj-kusuri-3/",
       "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "marula-cafe-j-glytta-2026-11-10",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "J Glytta",
-      "start": "2026-11-10T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/j-glytta-4/",
-      "image": "https://marulacafe.com/wp-content/uploads/2026/08/yulie.jpg",
       "price": "9€",
       "source": "html-text-pattern"
     },
@@ -604,17 +582,6 @@
       "url": "https://lanaubarcelona.es/ca/agenda/porangui-10-11-2026-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/Porangui_web-260x260.jpg",
       "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-vol-oval-presenta-superfan-2026-11-11",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "Oval presenta: Superfan",
-      "start": "2026-11-11T19:45:00.000Z",
-      "url": "https://salavol.com/agenda/superfan",
-      "image": null,
-      "price": "15.99€",
       "source": "html-selectors"
     },
     {
@@ -729,6 +696,17 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/TKM-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "diobar-guajiro-experiment-vol-iii-2026-11-14",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "GUAJIRO EXPERIMENT VOL.III",
+      "start": "2026-11-14T22:30:00.000Z",
+      "url": "https://diobarbcn.com/event/guajiro-experiment-vol-iii/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/6604c27d2ee664462d0ba73ced04902bbc169b2d/event_gallery_IMG_2544.png?v=1792612366",
+      "price": "8€",
+      "source": "jsonld"
     },
     {
       "id": "la-nau-gaitas-celebrando-la-feria-de-la-chinita-2026-11-15",
@@ -1289,6 +1267,28 @@
       "url": "https://lanaubarcelona.es/ca/agenda/ezezez-08-01-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/EZZE-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-camaleonica-2027-01-14",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Camaleônica",
+      "start": "2027-01-14T20:30:00.000Z",
+      "url": "https://salavol.com/agenda/camaleonica-2",
+      "image": null,
+      "price": "12/14€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-roy-borland-2027-01-15",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Roy Borland",
+      "start": "2027-01-15T20:30:00.000Z",
+      "url": "https://salavol.com/agenda/roy-borland",
+      "image": null,
+      "price": "19.84€",
       "source": "html-selectors"
     },
     {
