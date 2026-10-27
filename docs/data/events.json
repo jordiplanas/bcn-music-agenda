@@ -1,61 +1,18 @@
 {
-  "generatedAt": "2026-10-26T10:51:52.918Z",
+  "generatedAt": "2026-10-27T10:17:17.888Z",
   "counts": {
-    "robadors": 30,
+    "robadors": 50,
     "deskomunal": 4,
-    "diobar": 11,
+    "diobar": 12,
     "marula": 5,
-    "lanau": 65,
-    "cat": 7,
+    "lanau": 64,
     "heliogabal": 40,
-    "vol": 188
+    "vol": 189
   },
-  "errors": {},
+  "errors": {
+    "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
+  },
   "events": [
-    {
-      "id": "23robadors-irene-zugaza-betiana-barros-berta-vila-oscar-mathieu-2026-10-26",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "IRENE ZUGAZA , BETIANA BARROS . BERTA VILA . OSCAR MATHIEU",
-      "start": "2026-10-26T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/irene-zugaza-betiana-barros-berta-vila-oscar-mathieu/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/26-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-elles-bailey-2026-10-26",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "ELLES BAILEY",
-      "start": "2026-10-26T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/elles-bailey-26-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/PNT26_Elles-Bailey-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-sara-lilu-w-alesander-pena-ot-granados-enric-fuster-2026-10-26",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "SARA LILU w/ ALESANDER PEÑA . OT GRANADOS . ENRIC FUSTER",
-      "start": "2026-10-26T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/sara-lilu-w-alesander-pena-ot-granados-enric-fuster/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/26-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "marula-cafe-yulie-2026-10-27",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "Yulie",
-      "start": "2026-10-27T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/yulie-10/",
-      "image": "https://marulacafe.com/wp-content/uploads/2025/06/dj-yulie-marula-cafe.jpeg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
     {
       "id": "23robadors-alejandro-silverio-mar-cobo-jose-maria-ponce-nene-maya-2026-10-27",
       "venue": "23Robadors",
@@ -288,13 +245,13 @@
       "source": "html-selectors"
     },
     {
-      "id": "23robadors-sarsale-ramon-el-tato-violeta-barrio-albert-pons-oscar-puig-2026-10-31",
+      "id": "23robadors-sarsale-ramon-el-tato-nito-albert-pons-oscar-puig-2026-10-31",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
-      "title": "«SARSALÉ» RAMON EL TATO . VIOLETA BARRIO . ALBERT PONS . OSCAR PUIG",
+      "title": "«SARSALÉ» RAMON EL TATO . NITO . ALBERT PONS . OSCAR PUIG",
       "start": "2026-10-31T20:00:00.000Z",
       "url": "https://23robadors.com/calendari/sarsale-ramon-el-tato-violeta-barrio-albert-pons-oscar-puig-13/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM.jpg",
+      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM-1.jpg",
       "price": "10€",
       "source": "tribe-events-api"
     },
@@ -343,6 +300,17 @@
       "source": "jsonld"
     },
     {
+      "id": "23robadors-david-perez-ariadna-pajaro-isaac-barbero-tete-castilla-2026-11-01",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "DAVID PEREZ . ARIADNA PAJARO . ISAAC BARBERO . TETE CASTILLA",
+      "start": "2026-11-01T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/david-perez-ariadna-pajaro-isaac-barbero-tete-castilla/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/1-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "la-nau-stormy-2026-11-01",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -365,6 +333,39 @@
       "source": "html-text-pattern"
     },
     {
+      "id": "23robadors-lidia-mora-mariana-galarza-yaiza-de-los-muros-victor-rosell-2026-11-02",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "LIDIA MORA . MARIANA GALARZA . YAIZA DE LOS MUROS . VICTOR ROSELL",
+      "start": "2026-11-02T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/lidia-mora-mariana-galarza-yaiza-de-los-muros-victor-rosell/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/2-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "diobar-milonga-gitana-rusa-8211-un-encuentro-de-tango-2026-11-02",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Milonga Gitana Rusa &#8211; Un encuentro de tango",
+      "start": "2026-11-02T21:00:00.000Z",
+      "url": "https://diobarbcn.com/event/milonga-gitana-rusa/",
+      "image": "http://diobarbcn.com/wp-content/uploads/2026/10/image-21-10-26-10-38.jpeg",
+      "price": null,
+      "source": "jsonld"
+    },
+    {
+      "id": "23robadors-freysteinn-w-freysteinn-gislason-olivier-jambois-pau-llado-pol-marti-2026-11-02",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "FREYSTEINN w/ FREYSTEINN GÍSLASON . OLIVIER JAMBOIS . PAU LLADÓ . POL MARTÍ,",
+      "start": "2026-11-02T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/freysteinn-w-freysteinn-gislason-olivier-jambois-pau-llado-pol-marti/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/2-JAZZ.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "marula-cafe-j-glytta-2026-11-03",
       "venue": "Marula Café",
       "venueUrl": "https://marulacafe.com",
@@ -374,6 +375,17 @@
       "image": "https://marulacafe.com/wp-content/uploads/2026/08/yulie.jpg",
       "price": "9€",
       "source": "html-text-pattern"
+    },
+    {
+      "id": "23robadors-david-perez-ariadna-pajaro-nito-tete-castilla-2026-11-03",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "DAVID PEREZ . ARIADNA PAJARO . NITO . TETE CASTILLA",
+      "start": "2026-11-03T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/david-perez-ariadna-pajaro-nito-tete-castilla/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/3-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-nau-vengan-de-a-unx-peperina-2026-11-03",
@@ -387,6 +399,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "23robadors-oscar-sanchez-cantautor-cubano-2026-11-03",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "OSCAR SÁNCHEZ (CANTAUTOR CUBANO)",
+      "start": "2026-11-03T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/oscar-sanchez-cantautor-cubano/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/3-WORLD.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "la-vol-deep-forest-2026-11-04",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -398,15 +421,26 @@
       "source": "html-selectors"
     },
     {
-      "id": "el-cat-tradicionarius-25e-aniversari-al-ras-bluegrass-olt-time-festival-2026-11-05",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "25è aniversari Al Ras Bluegrass & Olt Time Festival",
-      "start": "2026-11-05T00:00:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/25e-aniversari-al-ras-bluegrass-_-olt-time-festival/programacio/2085",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/454389a7bcfd99791637aaf13bfab27d.cms_570_570_196_196__/Al-RAS-051126.png",
-      "price": null,
-      "source": "html-selectors"
+      "id": "23robadors-around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-2026-11-04",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "AROUND THE SPACE BAND w/ MIGUEL VILLAR . JUAN PABLO BALCAZAR . CARLOS FALANGA",
+      "start": "2026-11-04T21:00:00.000Z",
+      "url": "https://23robadors.com/calendari/around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-41/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/LA-JAM.jpg",
+      "price": "5€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-magda-mane-nayara-la-negra-agustin-batista-albert-pons-2026-11-05",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "MAGDA MAÑE . NAYARA LA NEGRA . AGUSTIN BATISTA . ALBERT PONS",
+      "start": "2026-11-05T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/magda-mane-agustin-batista-nito-albert-pons/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/5-FLAM-1.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-vol-l-equipe-presenta-monstruo-laberinto-2026-11-05",
@@ -418,6 +452,17 @@
       "image": null,
       "price": "15/18€",
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-xavi-casellas-presentacion-nuevo-vinilo-vocalese-voyage-w-dani-perez-matias-miguez-josep-cordobes-2026-11-05",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "XAVI CASELLAS / PRESENTACIÓN NUEVO VINILO «VOCALESE VOYAGE» w/ DANI PÉREZ . MATÍAS MÍGUEZ . JOSEP CORDOBÉS",
+      "start": "2026-11-05T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/xavi-casellas-presentacion-nuevo-vinilo-vocalese-voyage-w-dani-perez-matias-miguez-josep-cordobes/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/5-JAZZ.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-deskomunal-10-anys-d-8217-indie-lovers-2026-11-06",
@@ -442,6 +487,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "23robadors-el-more-saida-corral-agustin-cabrera-tete-castilla-2026-11-06",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "EL MORE . SAIDA CORRAL . AGUSTIN CABRERA . TETE CASTILLA",
+      "start": "2026-11-06T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/el-more-saida-corral-agustin-cabrera-tete-castilla/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/6-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "l-heliogabal-multipla-2026-11-06",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -462,6 +518,17 @@
       "image": null,
       "price": "16.69/18€",
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-ken-ychicawa-quartet-w-edu-cabello-eddie-mejia-manuel-luque-2026-11-06",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "KEN YCHICAWA QUARTET w/ EDU CABELLO . EDDIE MEJIA . MANUEL LUQUE",
+      "start": "2026-11-06T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/ken-ychicawa-quartet-w-edu-cabello-eddie-mejia-manuel-luque/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/6-JAZZ.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "diobar-matu-mati-en-latin-undeground-diobar-2026-11-06",
@@ -495,6 +562,17 @@
       "image": null,
       "price": "12/15€",
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-flamencorro-antonio-ramirez-mari-la-sevillana-nito-chus-tobalo-2026-11-07",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "«FLAMENCORRO» ANTONIO RAMIREZ . MARI LA SEVILLANA . NITO . CHUS TOBALO",
+      "start": "2026-11-07T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/flamencorro-antonio-ramirez-mari-la-sevillana-nito-chus-tobalo/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/7-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "diobar-rachel-arieff-s-anti-karaoke-november-at-diobar-2026-11-07",
@@ -563,6 +641,17 @@
       "source": "jsonld"
     },
     {
+      "id": "23robadors-irene-ribas-miranda-alfonso-ruben-heras-toni-abellan-2026-11-08",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "IRENE RIBAS . MIRANDA ALFONSO . RUBEN HERAS . TONI ABELLAN",
+      "start": "2026-11-08T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/irene-ribas-miranda-alfonso-ruben-heras-toni-abellan/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/8-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "marula-cafe-dj-kusuri-2026-11-09",
       "venue": "Marula Café",
       "venueUrl": "https://marulacafe.com",
@@ -570,6 +659,39 @@
       "start": "2026-11-09T00:00:00.000Z",
       "url": "https://marulacafe.com/evento/dj-kusuri-3/",
       "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
+      "price": "9€",
+      "source": "html-text-pattern"
+    },
+    {
+      "id": "23robadors-carmen-amador-isabel-marsol-noelia-lucas-victor-rosell-2026-11-09",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "CARMEN AMADOR . ISABEL MARSOL . NOELIA LUCAS . VICTOR ROSELL",
+      "start": "2026-11-09T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/carmen-amador-isabel-marsol-noelia-lucas-victor-rosell/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/9-FLAM-1.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-lorenzo-bellini-quartet-w-luca-de-toni-matteo-padoin-andrea-dionisi-2026-11-09",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "LORENZO BELLINI QUARTET w/ LUCA DE TONI . MATTEO PADOIN . ANDREA DIONISI",
+      "start": "2026-11-09T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/lorenzo-bellini-quartet-w-luca-de-toni-matteo-padoin-andrea-dionisi/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/9-JAZZ.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "marula-cafe-j-glytta-2026-11-10",
+      "venue": "Marula Café",
+      "venueUrl": "https://marulacafe.com",
+      "title": "J Glytta",
+      "start": "2026-11-10T00:00:00.000Z",
+      "url": "https://marulacafe.com/evento/j-glytta-4/",
+      "image": "https://marulacafe.com/wp-content/uploads/2026/08/yulie.jpg",
       "price": "9€",
       "source": "html-text-pattern"
     },
@@ -583,6 +705,39 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/Porangui_web-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-carmen-amador-vanesa-fernandez-isabel-marsol-victor-rosell-2026-11-10",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "CARMEN AMADOR . VANESA FERNANDEZ . ISABEL MARSOL . VICTOR ROSELL",
+      "start": "2026-11-10T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/carmen-amador-vanessa-fernandez-isabel-marsol-victor-rosell/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/10-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-david-giesel-quartet-w-albin-ormegard-thomas-fuller-moritz-langmaier-2026-11-10",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "DAVID GIESEL QUARTET w/ ALBIN ORMEGARD . THOMAS FULLER . MORITZ LANGMAIER",
+      "start": "2026-11-10T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/david-giesel-quartet-w-albin-ormegard-thomas-fuller-moritz-langmaier/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/10-JAZZ.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-2026-11-11",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "AROUND THE SPACE BAND w/ MIGUEL VILLAR . JUAN PABLO BALCAZAR . CARLOS FALANGA",
+      "start": "2026-11-11T21:00:00.000Z",
+      "url": "https://23robadors.com/calendari/around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-42/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/LA-JAM.jpg",
+      "price": "5€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-nau-buyuk-ev-ablukada-2026-11-11",
@@ -610,6 +765,17 @@
       "source": "jsonld"
     },
     {
+      "id": "23robadors-monica-la-chicuela-violeta-barrio-luis-cantarote-manuel-castilla-2026-11-12",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "MONICA LA CHICUELA . VIOLETA BARRIO . LUIS CANTAROTE . MANUEL CASTILLA",
+      "start": "2026-11-12T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/12-monica-la-chicuela-violeta-barrio-luis-cantarote-manuel-castilla/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/12-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "l-heliogabal-el-micro-obert-2026-11-12",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -632,6 +798,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "23robadors-pablo-martin-trio-8211-presentacio-the-standard-us-w-hector-tejedo-kike-perez-2026-11-12",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "PABLO MARTÍN TRIO &#8211; PRESENTACIÓ «THE STANDARD US» w/ HÉCTOR TEJEDO . KIKE PÉREZ",
+      "start": "2026-11-12T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/pablo-martin-trio-presentacio-the-standard-us-w-hector-tejedo-kike-perez/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/12-JAZZ-2.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "la-nau-brujeria-2026-11-13",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -641,6 +818,17 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/Brujeria-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-david-sanchez-violeta-barrio-albert-pons-ramon-olivares-2026-11-13",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "DAVID SANCHEZ . VIOLETA BARRIO . ALBERT PONS . RAMON OLIVARES",
+      "start": "2026-11-13T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/david-sanchez-violeta-barrio-albert-pons-ramon-olivares-2/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/13-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-vol-festival-empremtes-abril-2026-11-13",
@@ -663,6 +851,28 @@
       "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/STEVEN_MUNAR_02-Moon-Art-scaled.jpeg",
       "price": "12€",
       "source": "html-text-pattern"
+    },
+    {
+      "id": "23robadors-kaleidoscope-038-eva-fernandez-w-jesus-maneru-miguel-villar-juan-pablo-balcazar-2026-11-13",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "KALEIDOSCOPE &#038; EVA FERNANDEZ w/ JESUS MAÑERU . MIGUEL VILLAR . JUAN PABLO BALCAZAR",
+      "start": "2026-11-13T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/kaleidoscope-eva-fernandez-w-jesus-maneru-miguel-villar-juan-pablo-balcazar/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/13-JAZZ-2.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-palosanto-vanesa-cortes-ainhoa-lara-albert-pons-toto-parragues-2026-11-14",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "«PALOSANTO» VANESA CORTES . AINHOA LARA . ALBERT PONS . TOTO PARRAGUES",
+      "start": "2026-11-14T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/palo-santo-vanesa-corte-ainhoa-lara-albert-pons-toto-parragues/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/14-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "l-heliogabal-montana-2026-11-14",
@@ -720,6 +930,50 @@
       "source": "html-selectors"
     },
     {
+      "id": "23robadors-saray-perez-david-sanchez-ariadna-pajaro-tete-castilla-2026-11-15",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "SARAY PEREZ . DAVID SANCHEZ .  ARIADNA PAJARO . TETE CASTILLA",
+      "start": "2026-11-15T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/saray-perez-david-sanchez-ariadna-pajaro-tete-castilla/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/15-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-edgar-rodero-eri-fukuhara-albert-pons-alvaro-lopez-2026-11-16",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "EDGAR RODERO . ERI FUKUHARA . ALBERT PONS . ALVARO LOPEZ",
+      "start": "2026-11-16T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/edgar-rodero-eri-fukuhara-albert-pons-alvaro-lopez/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/16-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-jordi-herrera-trio-w-dani-palaci-jose-carlos-gonzalez-2026-11-16",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "JORDI HERRERA TRIO w/ DANÍ PALACÍ . JOSE CARLOS GONZÁLEZ",
+      "start": "2026-11-16T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/jordi-herrera-trio-w-dani-palaci-jose-carlos-gonzalez/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/16-JAZZ-1.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-david-sanchez-isa-ribera-pablo-marin-ramon-olivares-2026-11-17",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "DAVID SANCHEZ . ISA RIBERA . PABLO MARIN . RAMON OLIVARES",
+      "start": "2026-11-17T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/david-sanchez-isa-ribera-pablo-marin-ramon-olivares/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/17-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "la-nau-homer-el-mero-mero-2026-11-17",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -729,6 +983,17 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/webp-copia-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-federica-calio-quartet-w-borja-lange-fran-guillen-tomas-diaz-2026-11-17",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "FEDERICA CALIO QUARTET w/ BORJA LANGE . FRAN GUILLÉN . TOMÁS DÍAZ",
+      "start": "2026-11-17T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/federica-calio-quartet-w-borja-lange-fran-guillen-tomas-diaz/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/17-JAZZ.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-nau-proyecto-gomez-casa-2026-11-18",
@@ -751,6 +1016,28 @@
       "image": null,
       "price": "15/18€",
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-2026-11-18",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "AROUND THE SPACE BAND w/ MIGUEL VILLAR . JUAN PABLO BALCAZAR . CARLOS FALANGA",
+      "start": "2026-11-18T21:00:00.000Z",
+      "url": "https://23robadors.com/calendari/around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-43/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/LA-JAM.jpg",
+      "price": "5€",
+      "source": "tribe-events-api"
+    },
+    {
+      "id": "23robadors-fran-carmona-ramon-pinas-sandra-herrera-exequiel-coria-2026-11-19",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "FRAN CARMONA . RAMON PIÑAS . SANDRA HERRERA . EXEQUIEL CORIA",
+      "start": "2026-11-19T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/fran-carmona-ramon-pinas-sandra-herrera-exequiel-coria/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/19-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-nau-mt-jones-uk-2026-11-19",
@@ -786,6 +1073,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "23robadors-martin-leiton-quartet-takin-off-feat-oscar-latorre-w-anti-de-la-rubia-toni-saigi-andreu-pitarch-2026-11-19",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "MARTÍN LEITON QUARTET «TAKIN’ OFF» feat. OSCAR LATORRE w/ ANTI DE LA RUBIA . TONI SAIGI . ANDREU PITARCH",
+      "start": "2026-11-19T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/martin-leiton-quartet-takin-off-feat-oscar-latorre-w-anti-de-la-rubia-toni-saigi-andreu-pitarch/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/19-JAZZ-1.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
+    },
+    {
       "id": "la-vol-eh-sona-toc-nize-2026-11-20",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -797,15 +1095,15 @@
       "source": "html-selectors"
     },
     {
-      "id": "el-cat-tradicionarius-mehmet-polat-quartet-el-senglar-rialler-trad-tardor-26-2026-11-20",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "Mehmet Polat Quartet | El Senglar Rialler | +TRÀD Tardor’26",
-      "start": "2026-11-20T20:30:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/mehmet-polat-quartet-_-el-senglar-rialler-_-_trad-tardor%E2%80%9926/programacio/2097",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/834bd23aeebf61c8aa49cdc4e50cf7cd.cms_570_570_196_196__/Mehmet-Polat-Quartet---El-Senglar-Rialler---+TR%C3%80D-Tardor%E2%80%9926.png",
-      "price": null,
-      "source": "html-selectors"
+      "id": "23robadors-magda-mane-nito-albert-pons-chus-tobalo-2026-11-20",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "MAGDA MAÑE . NITO . ALBERT PONS . CHUS TOBALO",
+      "start": "2026-11-20T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/magda-mane-nito-albert-pons-chus-tobalo/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/20-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "l-heliogabal-ricardo-lezon-2026-11-20",
@@ -817,6 +1115,17 @@
       "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/RICARDOLEZON-Subterfuge-Records-1-scaled.jpg",
       "price": "20€",
       "source": "html-text-pattern"
+    },
+    {
+      "id": "23robadors-icar-toset-organ-trio-w-abel-boquera-dani-dominguez-2026-11-20",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "ICAR TOSET ORGAN TRIO w/ ABEL BOQUERA . DANI DOMINGUEZ",
+      "start": "2026-11-20T22:00:00.000Z",
+      "url": "https://23robadors.com/calendari/icar-toset-organ-trio-w-abel-boquera-dani-dominguez/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/20-JAZZ.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-nau-los-vecinos-de-manue-2026-11-21",
@@ -936,17 +1245,6 @@
       "start": "2026-11-26T21:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/romare-live-26-11-2026-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/ROMARE_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "el-cat-tradicionarius-solstici-maria-castell-amb-l-esbart-dansaire-de-rubi-trad-tardor-26-2026-11-27",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "Solstici - Maria Castell amb l'Esbart Dansaire de Rubí | +TRÀD Tardor’26",
-      "start": "2026-11-27T20:30:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/solstici---maria-castell-amb-l_esbart-dansaire-de-rubi-_-_trad-tardor%E2%80%9926/programacio/2096",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/dc5b8fd3096e22a927c089f30c8c4755.cms_570_570_196_196__/Solstici---Maria-Castell-amb-l'Esbart-Dansaire-de-Rub%C3%AD---+TR%C3%80D-Tardor%E2%80%9926.png",
       "price": null,
       "source": "html-selectors"
     },
@@ -1094,17 +1392,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "el-cat-tradicionarius-goig-trad-tardor-26-2026-12-10",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "Goig | + TRÀD Tardor’26",
-      "start": "2026-12-10T20:30:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/goig-_-_-trad-tardor%E2%80%9926/programacio/2095",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/e630499079c12da2cc0dd34758cc144b.cms_570_570_196_196__/Goig---+-TR%C3%80D-Tardor%E2%80%9926.png",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-oval-presenta-leather-head-2026-12-10",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1113,6 +1400,17 @@
       "url": "https://salavol.com/agenda/oval-presenta-leather-head",
       "image": null,
       "price": "14/16€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-dahlia-2026-12-11",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Dahlia",
+      "start": "2026-12-11T20:30:00.000Z",
+      "url": "https://salavol.com/agenda/dahlia",
+      "image": null,
+      "price": "12/14€",
       "source": "html-selectors"
     },
     {
@@ -1171,17 +1469,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "el-cat-tradicionarius-festa-final-dels-tallers-del-cat-trad-tardor-26-2026-12-17",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "Festa Final dels Tallers del CAT | +TRÀD Tardor’26",
-      "start": "2026-12-17T20:00:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/festa-final-dels-tallers-del-cat-_-_trad-tardor%E2%80%9926/programacio/2101",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/42d498a3a367f4b9e183655d8470cc2d.cms_570_570_196_196__/Festa-Final-dels-Tallers-del-CAT---+TR%C3%80D-Tardor%E2%80%9926.png",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-nau-omar-souleyman-2026-12-17",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1189,17 +1476,6 @@
       "start": "2026-12-17T21:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/omar-souleyman-17-12-2026/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/OMAR-SOULEYMAN-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "el-cat-tradicionarius-quico-el-celio-el-noi-i-el-mut-de-ferreries-i-nadal-al-cat-2026-12-18",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "Quico el Célio, el Noi i el Mut de Ferreries I Nadal al CAT",
-      "start": "2026-12-18T20:30:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/quico-el-celio_-el-noi-i-el-mut-de-ferreries-i-nadal-al-cat/programacio/2098",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/0d3883c54d5821b41b254b10a257cf72.cms_570_570_196_196__/Quico-el-C%C3%A9lio,-el-Noi-i-el-Mut-de-Ferreries-I-Nadal-al-CAT.png",
       "price": null,
       "source": "html-selectors"
     },
@@ -1223,17 +1499,6 @@
       "url": "https://salavol.com/agenda/bloody-fest-serapis-project-whitedemon-strayed-from-will",
       "image": null,
       "price": "12/15€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "el-cat-tradicionarius-els-quatrevents-circuit-folc-2026-trad-tardor-26-2026-12-19",
-      "venue": "El CAT (Tradicionàrius)",
-      "venueUrl": "http://www.tradicionarius.cat",
-      "title": "Els Quatrevents | Circuit Folc 2026 | +TRÀD Tardor’26",
-      "start": "2026-12-19T20:30:00.000Z",
-      "url": "http://www.tradicionarius.cat/ca/els-quatrevents-_-circuit-folc-2026-_-_trad-tardor%E2%80%9926/programacio/2099",
-      "image": "http://www.tradicionarius.cat/ca_ES/media/83eda5c4e2d2109c361ecd5914316759.cms_570_570_196_196__/Els-Quatrevents---Circuit-Folc-2026---+TR%C3%80D-Tardor%E2%80%9926.png",
-      "price": null,
       "source": "html-selectors"
     },
     {
