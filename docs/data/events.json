@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T10:17:17.888Z",
+  "generatedAt": "2026-10-28T11:07:50.267Z",
   "counts": {
     "robadors": 50,
     "deskomunal": 4,
     "diobar": 12,
-    "marula": 5,
-    "lanau": 64,
+    "marula": 4,
+    "lanau": 65,
     "heliogabal": 40,
     "vol": 189
   },
@@ -13,50 +13,6 @@
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-alejandro-silverio-mar-cobo-jose-maria-ponce-nene-maya-2026-10-27",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "ALEJANDRO SILVERIO . MAR COBO . JOSE MARIA PONCE . NENE MAYA",
-      "start": "2026-10-27T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/alejandro-silverio-mar-cobo-jose-maria-ponce-nene-maya/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/27-FLAM-1.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-santi-muk-2026-10-27",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "SANTI MUK",
-      "start": "2026-10-27T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/santi-muk-27-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/MUK_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-victor-blynsky-quartet-w-mariano-camarasa-daniele-cappucci-alessandro-campobasso-2026-10-27",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "VÍCTOR BLYNSKY QUARTET w/ MARIANO CAMARASA . DANIELE CAPPUCCI . ALESSANDRO CAMPOBASSO",
-      "start": "2026-10-27T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/victor-blynsky-quartet-w-mariano-camarasa-daniele-cappucci-alessandro-campobasso/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/27-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-dov-e-liana-2026-10-28",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Dov’è Liana",
-      "start": "2026-10-28T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/dove-liana-28-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Dov_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
     {
       "id": "23robadors-around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-2026-10-28",
       "venue": "23Robadors",
@@ -636,7 +592,7 @@
       "title": "ALTA JAM ( show Zapada de Rock Argentino )",
       "start": "2026-11-08T18:30:00.000Z",
       "url": "https://diobarbcn.com/event/zapada-de-rock-argentino-barcelona/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/96e3c4018fb33412c9856785312b2ce8e4c6730c/event_gallery_WhatsApp_Image_2026-10-25_at_13.34.10.jpeg?v=1792934364",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/96e3c4018fb33412c9856785312b2ce8e4c6730c/event_gallery_WhatsApp_Image_2026-10-25_at_13.34.10.jpeg?v=1793111963",
       "price": "10.32€",
       "source": "jsonld"
     },
@@ -661,6 +617,17 @@
       "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
       "price": "9€",
       "source": "html-text-pattern"
+    },
+    {
+      "id": "la-nau-milongas-extremas-sold-out-2026-11-09",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "MILONGAS EXTREMAS **SOLD OUT**",
+      "start": "2026-11-09T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/milongas-extremas-09-11-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/MILONGA-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
     },
     {
       "id": "23robadors-carmen-amador-isabel-marsol-noelia-lucas-victor-rosell-2026-11-09",
@@ -980,7 +947,7 @@
       "title": "HOMER EL MERO MERO",
       "start": "2026-11-17T20:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/homer-el-mero-mero-17-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/webp-copia-260x260.jpg",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/HomerJager-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
@@ -1106,6 +1073,17 @@
       "source": "tribe-events-api"
     },
     {
+      "id": "la-nau-fes-t-pau-2026-11-20",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "Fes(t) Pau",
+      "start": "2026-11-20T20:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/fest-pau-20-11-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/FESTPAU-web-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
       "id": "l-heliogabal-ricardo-lezon-2026-11-20",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -1137,6 +1115,17 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/3f0c3bb3-238f-4489-8d0b-c0c0d6726687-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-sarsale-ramon-pinas-alicia-reyes-albert-pons-oscar-puig-2026-11-21",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "«SARSALE» RAMON PIÑAS . ALICIA REYES . ALBERT PONS . OSCAR PUIG",
+      "start": "2026-11-21T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/sarsale-ramon-pinas-alicia-reyes-albert-pons-oscar-puig/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/21-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "l-heliogabal-mirena-kiu-2026-11-21",
@@ -1181,6 +1170,17 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/telefunka_vermut_sonor_22nov-web-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-antonio-de-carlota-susana-escoda-sergio-barroso-oscar-soriano-2026-11-22",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "ANTONIO DE CARLOTA . SUSANA ESCODA . SERGIO BARROSO . OSCAR SORIANO",
+      "start": "2026-11-22T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/antonio-de-carlota-susana-escoda-oscar-soriano/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/22-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-nau-flotsam-and-jetsam-2026-11-23",
