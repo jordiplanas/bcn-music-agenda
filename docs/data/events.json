@@ -1,136 +1,26 @@
 {
-  "generatedAt": "2026-10-30T11:14:52.512Z",
+  "generatedAt": "2026-10-31T10:47:36.454Z",
   "counts": {
-    "robadors": 50,
-    "deskomunal": 4,
-    "diobar": 14,
+    "robadors": 45,
+    "diobar": 12,
     "marula": 4,
-    "lanau": 65,
+    "lanau": 64,
     "heliogabal": 40,
     "vol": 190
   },
   "errors": {
+    "deskomunal": "fetch failed",
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
     {
-      "id": "la-vol-dogteeth-woodchuck-tyld-2026-10-30",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "Dogteeth + Woodchuck + TYLD",
-      "start": "2026-10-30T19:00:00.000Z",
-      "url": "https://salavol.com/agenda/tyld-dogteeth-woodchuck",
-      "image": null,
-      "price": "10/12€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-lidia-mora-betiana-barros-edgar-platon-antonio-villaverde-2026-10-30",
+      "id": "23robadors-sarsale-ramon-el-tato-nito-oscar-soriano-oscar-puig-2026-10-31",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
-      "title": "LIDIA MORA . BETIANA BARROS . EDGAR PLATON . ANTONIO VILLAVERDE",
-      "start": "2026-10-30T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/lidia-mora-betiana-barros-edgar-platon-antonio-villaverde/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/30-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "diobar-check-in-blues-the-basement-tapes-231-2026-10-30",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Check In Blues ::: «The Basement Tapes #231»",
-      "start": "2026-10-30T20:00:00.000Z",
-      "url": "https://diobarbcn.com/event/check-in-blues-the-basement-tapes-231/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/f850461d761a4ce8c272616c7fc39fef19eeaf5c/event_gallery_261030-checkinblues.png?v=1791926656",
-      "price": "8.26€",
-      "source": "jsonld"
-    },
-    {
-      "id": "l-heliogabal-mi-compa-el-chino-plastikboy-2026-10-30",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Mi compa el chino Plastikboy",
-      "start": "2026-10-30T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/mi-compa-el-chino-plastikboy/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/Mi-compa-el-chino-Plastikboy.jpg",
-      "price": "18€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-nau-stormy-sold-out-2026-10-30",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "STORMY **SOLD OUT**",
-      "start": "2026-10-30T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/stormy-30-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/stormy-square-BCN-WEB-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-col-lectiu-vint-i-tres-w-roque-garcia-xavi-maldonado-giuseppe-campisi-enric-fuster-2026-10-30",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "COL·LECTIU VINT·I·TRES w/ ROQUE GARCIA . XAVI MALDONADO . GIUSEPPE CAMPISI . ENRIC FUSTER",
-      "start": "2026-10-30T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/col%c2%b7lectiu-vint%c2%b7i%c2%b7ytes-w-roque-garcia-xavi-maldonado-giuseppe-campisi-enric-fuster/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/30-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "diobar-barrio-adentro-en-latin-underground-diobar-2026-10-30",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Barrio Adentro en Latin Underground Diobar",
-      "start": "2026-10-30T22:30:00.000Z",
-      "url": "https://diobarbcn.com/event/barrio-adentro-en-latin-underground/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/5c2534341c04c995db24e72464908f843bec8bd9/event_gallery_barrio_adentro.png?v=1792578253",
-      "price": "10.32€",
-      "source": "jsonld"
-    },
-    {
-      "id": "la-deskomunal-hartz-hashtack-eh-sona-2026-2026-10-31",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "HARTZ + HASHTACK. EH SONA 2026",
-      "start": "2026-10-31T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/hartz-hashtack-eh-sona-2026/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/09/Hartz-Hashtack-Deskomunal.png",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "la-deskomunal-arana-club-8211-la-castanyada-2026-10-31",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "ARAÑA CLUB &#8211; LA CASTANYADA",
-      "start": "2026-10-31T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/arana-club-la-castanyada-2/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/ARANA-CARTEL-FIJO.png",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "la-nau-quintal-delas-2026-10-31",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "QUINTAL DELAS",
-      "start": "2026-10-31T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/quintal-delas-31-10-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Quintal-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-sarsale-ramon-el-tato-nito-albert-pons-oscar-puig-2026-10-31",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "«SARSALÉ» RAMON EL TATO . NITO . ALBERT PONS . OSCAR PUIG",
+      "title": "«SARSALÉ» RAMON EL TATO . NITO . OSCAR SORIANO . OSCAR PUIG",
       "start": "2026-10-31T20:00:00.000Z",
       "url": "https://23robadors.com/calendari/sarsale-ramon-el-tato-violeta-barrio-albert-pons-oscar-puig-13/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM-1.jpg",
+      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM-2.jpg",
       "price": "10€",
       "source": "tribe-events-api"
     },
@@ -322,10 +212,10 @@
       "source": "tribe-events-api"
     },
     {
-      "id": "la-vol-l-equipe-presenta-monstruo-laberinto-2026-11-05",
+      "id": "la-vol-l-equip-presenta-monstruo-laberinto-2026-11-05",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
-      "title": "L'Equipe presenta: Monstruo Laberinto",
+      "title": "L'Equip presenta: Monstruo Laberinto",
       "start": "2026-11-05T20:30:00.000Z",
       "url": "https://salavol.com/agenda/lequipe-presenta-monstruo-laberinto",
       "image": null,
@@ -342,17 +232,6 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/5-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
-    },
-    {
-      "id": "la-deskomunal-10-anys-d-8217-indie-lovers-2026-11-06",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "10 ANYS D&#8217;INDIE LOVERS",
-      "start": "2026-11-06T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/10-anys-dindie-lovers/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/INDIEOCT3.jpg",
-      "price": null,
-      "source": "jsonld"
     },
     {
       "id": "la-nau-turkish-pop-night-2026-11-06",
@@ -474,17 +353,6 @@
       "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/fran-laoren-mientras-duermes-hyperpop-4.jpg",
       "price": "11€",
       "source": "html-text-pattern"
-    },
-    {
-      "id": "la-deskomunal-luis-enrique-mejia-godoy-2026-11-08",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "LUIS ENRIQUE MEJÍA GODOY",
-      "start": "2026-11-08T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/luis-enrique-mejia-godoy/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/LUIS-ENRIQUE-MEJIA-GODOY.jpg",
-      "price": null,
-      "source": "jsonld"
     },
     {
       "id": "la-nau-45-s-shootout-clash-2026-11-08",
@@ -985,10 +853,10 @@
       "source": "html-text-pattern"
     },
     {
-      "id": "la-vol-l-equipe-presenta-rudiger-2026-11-19",
+      "id": "la-vol-l-equip-presenta-rudiger-2026-11-19",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
-      "title": "L'Equipe presenta: Rüdiger",
+      "title": "L'Equip presenta: Rüdiger",
       "start": "2026-11-19T20:30:00.000Z",
       "url": "https://salavol.com/agenda/lequipe-presenta-rudiger",
       "image": null,
@@ -1126,6 +994,17 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/telefunka_vermut_sonor_22nov-web-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "23robadors-antonio-de-carlota-susana-escoda-sergio-barroso-oscar-soriano-2026-11-22",
+      "venue": "23Robadors",
+      "venueUrl": "https://23robadors.com",
+      "title": "ANTONIO DE CARLOTA . SUSANA ESCODA . SERGIO BARROSO . OSCAR SORIANO",
+      "start": "2026-11-22T20:00:00.000Z",
+      "url": "https://23robadors.com/calendari/antonio-de-carlota-susana-escoda-oscar-soriano/",
+      "image": "https://23robadors.com/wp-content/uploads/2026/10/22-FLAM.jpg",
+      "price": "10€",
+      "source": "tribe-events-api"
     },
     {
       "id": "la-nau-flotsam-and-jetsam-2026-11-23",
