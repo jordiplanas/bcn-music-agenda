@@ -1,62 +1,18 @@
 {
-  "generatedAt": "2026-10-31T10:47:36.454Z",
+  "generatedAt": "2026-11-01T11:45:53.912Z",
   "counts": {
-    "robadors": 45,
-    "diobar": 12,
+    "robadors": 47,
+    "deskomunal": 4,
+    "diobar": 11,
     "marula": 4,
     "lanau": 64,
     "heliogabal": 40,
-    "vol": 190
+    "vol": 191
   },
   "errors": {
-    "deskomunal": "fetch failed",
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-sarsale-ramon-el-tato-nito-oscar-soriano-oscar-puig-2026-10-31",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "«SARSALÉ» RAMON EL TATO . NITO . OSCAR SORIANO . OSCAR PUIG",
-      "start": "2026-10-31T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/sarsale-ramon-el-tato-violeta-barrio-albert-pons-oscar-puig-13/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/09/31-FLAM-2.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "diobar-el-gozon-de-halloween-2026-10-31",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "¡El Gozón de Halloween!",
-      "start": "2026-10-31T20:00:00.000Z",
-      "url": "https://diobarbcn.com/event/el-gozon-de-halloween/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/9354bbb5df06a8dcc839414348813228f068b04c/event_gallery_261031-champetizate.jpeg?v=1792768692",
-      "price": "5.17€",
-      "source": "jsonld"
-    },
-    {
-      "id": "l-heliogabal-mare-carrier-astro-rita-damare-2026-10-31",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Mare Carrier  Astro Rita  Damare",
-      "start": "2026-10-31T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/mare-carrier-astro-rita-da-mare/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/Marecarrier-1-scaled.jpg",
-      "price": "10€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-nau-2-reencuentro-salsero-2026-11-01",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "2º REENCUENTRO SALSERO",
-      "start": "2026-11-01T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/2o-reencuentro-salsero-01-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/VermutSalsero3-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
     {
       "id": "diobar-volkanes-8211-tardeo-balkan-2026-11-01",
       "venue": "Diobar",
@@ -234,6 +190,17 @@
       "source": "tribe-events-api"
     },
     {
+      "id": "la-deskomunal-10-anys-d-8217-indie-lovers-2026-11-06",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "10 ANYS D&#8217;INDIE LOVERS",
+      "start": "2026-11-06T00:00:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/10-anys-dindie-lovers/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/INDIEOCT3.jpg",
+      "price": null,
+      "source": "jsonld"
+    },
+    {
       "id": "la-nau-turkish-pop-night-2026-11-06",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -353,6 +320,17 @@
       "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/fran-laoren-mientras-duermes-hyperpop-4.jpg",
       "price": "11€",
       "source": "html-text-pattern"
+    },
+    {
+      "id": "la-deskomunal-luis-enrique-mejia-godoy-2026-11-08",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "LUIS ENRIQUE MEJÍA GODOY",
+      "start": "2026-11-08T00:00:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/luis-enrique-mejia-godoy/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/LUIS-ENRIQUE-MEJIA-GODOY.jpg",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "la-nau-45-s-shootout-clash-2026-11-08",
@@ -642,6 +620,17 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/13-JAZZ-2.jpg",
       "price": "10€",
       "source": "tribe-events-api"
+    },
+    {
+      "id": "la-deskomunal-ultim-volta-el-sonido-de-velda-2026-11-13",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "ÚLTIM VOLTA: EL SONIDO DE VELDÁ",
+      "start": "2026-11-13T23:45:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/ultim-volta-el-sonido-de-velda/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/11-13-S-sonido-1.png",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "la-nau-bj-griffin-rhythm-alchemy-tour-2026-11-14",
@@ -1359,6 +1348,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-ubaldo-llucia-pla-2026-12-23",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Ubaldo + Llúcia Pla",
+      "start": "2026-12-23T19:45:00.000Z",
+      "url": "https://salavol.com/agenda/ubaldo-llucia-pla",
+      "image": null,
+      "price": "12/15€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-vol-gudar-los-mals-menors-2027-01-08",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1656,6 +1656,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-nau-link-do-zap-2027-03-14",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "LINK DO ZAP",
+      "start": "2027-03-14T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/link-do-zap-14-03-2027/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/LINK-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-vargas-blues-band-2027-03-17",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1763,6 +1774,17 @@
       "url": "https://salavol.com/agenda/chavalada-sound-presenta-baf",
       "image": null,
       "price": "12€",
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-belako-2027-10-30",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "BELAKO",
+      "start": "2027-10-30T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/belako-30-10-2027-2/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/CARTEL-BARCELONA-800-260x260.jpg",
+      "price": null,
       "source": "html-selectors"
     }
   ]
