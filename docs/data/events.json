@@ -1,62 +1,18 @@
 {
-  "generatedAt": "2026-11-01T11:45:53.912Z",
+  "generatedAt": "2026-11-02T13:15:30.274Z",
   "counts": {
-    "robadors": 47,
+    "robadors": 48,
     "deskomunal": 4,
-    "diobar": 11,
-    "marula": 4,
-    "lanau": 64,
+    "diobar": 17,
+    "marula": 5,
+    "lanau": 63,
     "heliogabal": 40,
-    "vol": 191
+    "vol": 192
   },
   "errors": {
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "diobar-volkanes-8211-tardeo-balkan-2026-11-01",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "VOLKANES &#8211; TARDEO BALKAN",
-      "start": "2026-11-01T17:00:00.000Z",
-      "url": "https://diobarbcn.com/event/volkanes-tardeo-balkan/",
-      "image": "http://diobarbcn.com/wp-content/uploads/2026/10/TARDEO-BALKAN-VOLKANES.png",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "23robadors-david-perez-ariadna-pajaro-isaac-barbero-tete-castilla-2026-11-01",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "DAVID PEREZ . ARIADNA PAJARO . ISAAC BARBERO . TETE CASTILLA",
-      "start": "2026-11-01T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/david-perez-ariadna-pajaro-isaac-barbero-tete-castilla/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/1-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-stormy-2026-11-01",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "STORMY",
-      "start": "2026-11-01T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/stormy-01-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/stormy-square-BCN-WEB-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "marula-cafe-dj-kusuri-2026-11-02",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "Dj Kusuri",
-      "start": "2026-11-02T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/dj-kusuri-2/",
-      "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
     {
       "id": "23robadors-lidia-mora-mariana-galarza-yaiza-de-los-muros-victor-rosell-2026-11-02",
       "venue": "23Robadors",
@@ -322,6 +278,17 @@
       "source": "html-text-pattern"
     },
     {
+      "id": "diobar-dance-to-the-underground-2026-11-07",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Dance! To The Underground",
+      "start": "2026-11-07T23:30:00.000Z",
+      "url": "https://diobarbcn.com/event/borrador-automaticodance-to-the-underground-35/",
+      "image": "http://diobarbcn.com/wp-content/uploads/2026/11/2026-11-07-DTTU-Diobar-45-4000x3200.jpg-scaled.jpeg",
+      "price": null,
+      "source": "jsonld"
+    },
+    {
       "id": "la-deskomunal-luis-enrique-mejia-godoy-2026-11-08",
       "venue": "La Deskomunal",
       "venueUrl": "https://ladeskomunal.coop",
@@ -584,7 +551,7 @@
       "title": "Fiestas de Independencia Cartagena de Indias",
       "start": "2026-11-13T20:00:00.000Z",
       "url": "https://diobarbcn.com/event/independencia-cartagena-de-indias/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/8af5254f3baa363669fac869aacba2e3214865e8/event_gallery_FLYER_FIESTAS_DE_INDEPENDENCIA.jpg.jpeg?v=1793206364",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/8af5254f3baa363669fac869aacba2e3214865e8/event_gallery_FLYER_FIESTAS_DE_INDEPENDENCIA.jpg.jpeg?v=1793616611",
       "price": "10.32€",
       "source": "jsonld"
     },
@@ -721,6 +688,17 @@
       "source": "tribe-events-api"
     },
     {
+      "id": "marula-cafe-j-glytta-2026-11-16",
+      "venue": "Marula Café",
+      "venueUrl": "https://marulacafe.com",
+      "title": "J Glytta",
+      "start": "2026-11-16T00:00:00.000Z",
+      "url": "https://marulacafe.com/evento/j-glytta/",
+      "image": "https://marulacafe.com/wp-content/uploads/2025/06/dj-yulie-marula-cafe.jpeg",
+      "price": "9€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "23robadors-edgar-rodero-eri-fukuhara-albert-pons-alvaro-lopez-2026-11-16",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
@@ -730,6 +708,17 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/16-FLAM.jpg",
       "price": "10€",
       "source": "tribe-events-api"
+    },
+    {
+      "id": "diobar-milonga-gitana-rusa-8211-un-encuentro-de-tango-2026-11-16",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Milonga Gitana Rusa &#8211; Un encuentro de tango",
+      "start": "2026-11-16T21:00:00.000Z",
+      "url": "https://diobarbcn.com/event/milonga-gitana-rusa3/",
+      "image": "http://diobarbcn.com/wp-content/uploads/2026/10/image-21-10-26-10-38.jpeg",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "23robadors-jordi-herrera-trio-w-dani-palaci-jose-carlos-gonzalez-2026-11-16",
@@ -886,6 +875,17 @@
       "source": "tribe-events-api"
     },
     {
+      "id": "diobar-maitukem-the-basement-tapes-232-2026-11-20",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Maitukem ::: «The Basement Tapes #232»",
+      "start": "2026-11-20T20:00:00.000Z",
+      "url": "https://diobarbcn.com/event/maitukem_basement_tapes232/",
+      "image": "http://diobarbcn.com/wp-content/uploads/2026/11/1000062223.jpg",
+      "price": null,
+      "source": "jsonld"
+    },
+    {
       "id": "la-nau-fes-t-pau-2026-11-20",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -974,6 +974,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "diobar-niem-nitai-en-diobar-2026-11-21",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Niem Nitai en Diobar!",
+      "start": "2026-11-21T22:00:00.000Z",
+      "url": "https://diobarbcn.com/event/niem-nitai-en-diobar/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/602f9161a60cf851d93473ed5e245fede7613319/event_gallery_WhatsApp_Image_2026-10-31_at_23.00.17.jpeg?v=1793614049",
+      "price": "10.32€",
+      "source": "jsonld"
+    },
+    {
       "id": "la-nau-telefunka-2026-11-22",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -994,6 +1005,17 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/22-FLAM.jpg",
       "price": "10€",
       "source": "tribe-events-api"
+    },
+    {
+      "id": "diobar-milonga-gitana-rusa-8211-un-encuentro-de-tango-2026-11-23",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Milonga Gitana Rusa &#8211; Un encuentro de tango",
+      "start": "2026-11-23T21:00:00.000Z",
+      "url": "https://diobarbcn.com/event/milonga-gitana-rusa4/",
+      "image": "http://diobarbcn.com/wp-content/uploads/2026/10/image-21-10-26-10-38.jpeg",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "la-nau-flotsam-and-jetsam-2026-11-23",
@@ -1095,6 +1117,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "diobar-latin-underground-la-portena-y-los-piratas-nautas-loops-2026-11-27",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Latin Underground! ::: La Porteña y Los Piratas + Nautas Loops",
+      "start": "2026-11-27T21:00:00.000Z",
+      "url": "https://diobarbcn.com/event/la-portena-y-los-piratas-nautas-loops/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/6dbaef96184f613d672ba1f0b766b50054c7a225/event_gallery_PORTE%C3%91A_Y_NAUTAS_AFICHE.png?v=1793616454",
+      "price": "8.26€",
+      "source": "jsonld"
+    },
+    {
       "id": "la-nau-mia-salazar-2026-11-28",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1126,6 +1159,28 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/finalvermutia_WEB-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-nuki-2026-11-30",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "NUKI",
+      "start": "2026-11-30T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/nuki-30-11-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/NUKI-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "diobar-milonga-gitana-rusa-8211-un-encuentro-de-tango-2026-11-30",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Milonga Gitana Rusa &#8211; Un encuentro de tango",
+      "start": "2026-11-30T21:00:00.000Z",
+      "url": "https://diobarbcn.com/event/milonga-gitana-rusa5/",
+      "image": "http://diobarbcn.com/wp-content/uploads/2026/10/image-21-10-26-10-38.jpeg",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "la-nau-marco-castello-live-band-2026-12-02",
@@ -1642,6 +1697,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/de-acero-12-03-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/DeAcero-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-aie-presenta-janus-lester-2027-03-13",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Aie presenta: Janus Lester",
+      "start": "2027-03-13T20:30:00.000Z",
+      "url": "https://salavol.com/agenda/aie-presenta-janus-lester",
+      "image": null,
+      "price": "14/17€",
       "source": "html-selectors"
     },
     {
