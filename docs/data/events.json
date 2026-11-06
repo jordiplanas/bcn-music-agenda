@@ -1,73 +1,18 @@
 {
-  "generatedAt": "2026-11-05T13:00:28.464Z",
+  "generatedAt": "2026-11-06T12:47:03.675Z",
   "counts": {
-    "robadors": 35,
+    "robadors": 37,
     "deskomunal": 4,
     "diobar": 17,
     "marula": 4,
-    "lanau": 63,
     "heliogabal": 40,
-    "vol": 193
+    "vol": 194
   },
   "errors": {
+    "lanau": "terminated",
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-magda-mane-nayara-la-negra-agustin-batista-albert-pons-2026-11-05",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "MAGDA MAÑE . NAYARA LA NEGRA . AGUSTIN BATISTA . ALBERT PONS",
-      "start": "2026-11-05T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/magda-mane-agustin-batista-nito-albert-pons/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/5-FLAM-1.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-vol-l-equip-presenta-monstruo-laberinto-2026-11-05",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "L'Equip presenta: Monstruo Laberinto",
-      "start": "2026-11-05T20:30:00.000Z",
-      "url": "https://salavol.com/agenda/lequipe-presenta-monstruo-laberinto",
-      "image": null,
-      "price": "15/18€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-xavi-casellas-presentacion-nuevo-vinilo-vocalese-voyage-w-dani-perez-matias-miguez-josep-cordobes-2026-11-05",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "XAVI CASELLAS / PRESENTACIÓN NUEVO VINILO «VOCALESE VOYAGE» w/ DANI PÉREZ . MATÍAS MÍGUEZ . JOSEP CORDOBÉS",
-      "start": "2026-11-05T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/xavi-casellas-presentacion-nuevo-vinilo-vocalese-voyage-w-dani-perez-matias-miguez-josep-cordobes/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/5-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-deskomunal-10-anys-d-8217-indie-lovers-2026-11-06",
-      "venue": "La Deskomunal",
-      "venueUrl": "https://ladeskomunal.coop",
-      "title": "10 ANYS D&#8217;INDIE LOVERS",
-      "start": "2026-11-06T00:00:00.000Z",
-      "url": "https://ladeskomunal.coop/agenda/10-anys-dindie-lovers/",
-      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/INDIEOCT3.jpg",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "la-nau-turkish-pop-night-2026-11-06",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "TURKISH POP NIGHT",
-      "start": "2026-11-06T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/turkish-pop-night-06-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/TURKISH-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
     {
       "id": "23robadors-el-more-saida-corral-agustin-cabrera-tete-castilla-2026-11-06",
       "venue": "23Robadors",
@@ -168,17 +113,6 @@
       "source": "jsonld"
     },
     {
-      "id": "la-nau-allie-x-2026-11-07",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "ALLIE X",
-      "start": "2026-11-07T20:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/allie-x-07-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/ALLIEX_post_es-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "l-heliogabal-fran-laoren-2026-11-07",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -212,28 +146,6 @@
       "source": "jsonld"
     },
     {
-      "id": "la-nau-rockpelsxuklis-2026-11-08",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "ROCKPELSXUKLIS",
-      "start": "2026-11-08T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/rockpelsxuklis-08-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/RockpelsXuclis-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-45-s-shootout-clash-2026-11-08",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "45's ShootOut Clash",
-      "start": "2026-11-08T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/45s-shootout-clash-08-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/SHOT-OUT-CLASH-WEB-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "diobar-alta-jam-show-zapada-de-rock-argentino-2026-11-08",
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
@@ -265,17 +177,6 @@
       "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
       "price": "9€",
       "source": "html-text-pattern"
-    },
-    {
-      "id": "la-nau-milongas-extremas-sold-out-2026-11-09",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MILONGAS EXTREMAS **SOLD OUT**",
-      "start": "2026-11-09T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/milongas-extremas-09-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/MILONGA-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "23robadors-carmen-amador-isabel-marsol-noelia-lucas-victor-rosell-2026-11-09",
@@ -333,17 +234,6 @@
       "source": "tribe-events-api"
     },
     {
-      "id": "la-nau-porangui-2026-11-10",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "PORANGUI",
-      "start": "2026-11-10T20:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/porangui-10-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Porangui_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "23robadors-david-giesel-quartet-w-albin-ormegard-thomas-fuller-moritz-langmaier-2026-11-10",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
@@ -366,17 +256,6 @@
       "source": "tribe-events-api"
     },
     {
-      "id": "la-nau-buyuk-ev-ablukada-2026-11-11",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Büyük Ev Ablukada",
-      "start": "2026-11-11T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/buyuk-ev-ablukada-11-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/BEA_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "diobar-scandalo-eros-cabaret-show-x-diobar-2026-11-12",
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
@@ -389,6 +268,17 @@
       ],
       "price": "26.5€",
       "source": "jsonld"
+    },
+    {
+      "id": "la-vol-greetings-from-barcelona-vol-4-traume-shakti-fiebre-lucero-del-alba-2026-11-12",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Greetings from Barcelona Vol. 4: Traüme + Shakti + Fiebre + Lucero del Alba",
+      "start": "2026-11-12T19:00:00.000Z",
+      "url": "https://salavol.com/agenda/greetings-from-barcelona-vol-4-traume-shakti-fiebre-lucero-del-alba",
+      "image": null,
+      "price": "13.23/15€",
+      "source": "html-selectors"
     },
     {
       "id": "23robadors-monica-la-chicuela-violeta-barrio-luis-cantarote-manuel-castilla-2026-11-12",
@@ -411,17 +301,6 @@
       "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/HELIO-MICRO_OBERT-POST.jpg",
       "price": "5€",
       "source": "html-text-pattern"
-    },
-    {
-      "id": "la-nau-frazey-ford-sold-out-2026-11-12",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "FRAZEY FORD **SOLD OUT**",
-      "start": "2026-11-12T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/frazey-ford-12-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/frazeyford_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "23robadors-pablo-martin-trio-8211-presentacio-the-standard-us-w-hector-tejedo-kike-perez-2026-11-12",
@@ -468,17 +347,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-brujeria-2026-11-13",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "BRUJERÍA",
-      "start": "2026-11-13T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/brujeria-13-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Brujeria-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "l-heliogabal-steven-munar-038-the-new-miracle-band-easy-love-2026-11-13",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -510,17 +378,6 @@
       "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/11-13-S-sonido-1.png",
       "price": null,
       "source": "jsonld"
-    },
-    {
-      "id": "la-nau-bj-griffin-rhythm-alchemy-tour-2026-11-14",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "BJ GRIFFIN Rhythm & Alchemy Tour",
-      "start": "2026-11-14T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/bj-griffin-rhythm-alchemy-tour-14-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/BJ_Griffin_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "23robadors-palosanto-vanesa-cortes-ainhoa-lara-albert-pons-toto-parragues-2026-11-14",
@@ -556,17 +413,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-tkm-2026-11-14",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "TKM",
-      "start": "2026-11-14T22:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/tkm-14-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/TKM-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "diobar-guajiro-experiment-vol-iii-2026-11-14",
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
@@ -576,17 +422,6 @@
       "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/6604c27d2ee664462d0ba73ced04902bbc169b2d/event_gallery_IMG_2544.png?v=1792612366",
       "price": "8€",
       "source": "jsonld"
-    },
-    {
-      "id": "la-nau-gaitas-celebrando-la-feria-de-la-chinita-2026-11-15",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "GAITAS Celebrando la Feria de la Chinita",
-      "start": "2026-11-15T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/gaitas-celebrando-la-feria-de-la-chinita-15-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/GAITAS-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "23robadors-saray-perez-david-sanchez-ariadna-pajaro-tete-castilla-2026-11-15",
@@ -666,17 +501,6 @@
       "source": "tribe-events-api"
     },
     {
-      "id": "la-nau-homer-el-mero-mero-2026-11-17",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "HOMER EL MERO MERO",
-      "start": "2026-11-17T20:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/homer-el-mero-mero-17-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/HomerJager-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "23robadors-federica-calio-quartet-w-borja-lange-fran-guillen-tomas-diaz-2026-11-17",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
@@ -686,17 +510,6 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/17-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-proyecto-gomez-casa-2026-11-18",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "PROYECTO GOMEZ CASA",
-      "start": "2026-11-18T19:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/proyecto-gomez-casa-18-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Barcelona_1080x1080-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "la-vol-heavenphetamine-2026-11-18",
@@ -730,17 +543,6 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/19-FLAM.jpg",
       "price": "10€",
       "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-mt-jones-uk-2026-11-19",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MT JONES (UK)",
-      "start": "2026-11-19T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/mt-jones-uk-19-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/MTJones-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "l-heliogabal-ian-moya-carla-iglesias-marta-8217-s-2026-11-19",
@@ -809,17 +611,6 @@
       "source": "jsonld"
     },
     {
-      "id": "la-nau-fes-t-pau-2026-11-20",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Fes(t) Pau",
-      "start": "2026-11-20T20:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/fest-pau-20-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/FESTPAU-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "l-heliogabal-ricardo-lezon-2026-11-20",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -840,17 +631,6 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/20-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-los-vecinos-de-manue-2026-11-21",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "LOS VECINOS DE MANUÉ",
-      "start": "2026-11-21T12:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/los-vecinos-de-manue-21-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/3f0c3bb3-238f-4489-8d0b-c0c0d6726687-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "23robadors-sarsale-ramon-pinas-alicia-reyes-albert-pons-oscar-puig-2026-11-21",
@@ -886,17 +666,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-javi-cantero-2026-11-21",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "JAVI CANTERO",
-      "start": "2026-11-21T21:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/javi-cantero-21-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/JaviCantero-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "diobar-niem-nitai-en-diobar-2026-11-21",
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
@@ -906,17 +675,6 @@
       "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/602f9161a60cf851d93473ed5e245fede7613319/event_gallery_WhatsApp_Image_2026-10-31_at_23.00.17.jpeg?v=1793808754",
       "price": "10.32€",
       "source": "jsonld"
-    },
-    {
-      "id": "la-nau-telefunka-2026-11-22",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "TELEFUNKA",
-      "start": "2026-11-22T12:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/telefunka-10-10-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/telefunka_vermut_sonor_22nov-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "23robadors-antonio-de-carlota-susana-escoda-sergio-barroso-oscar-soriano-2026-11-22",
@@ -941,17 +699,6 @@
       "source": "jsonld"
     },
     {
-      "id": "la-nau-flotsam-and-jetsam-2026-11-23",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "FLOTSAM AND JETSAM",
-      "start": "2026-11-23T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/flotsam-and-jetsam-23-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Barcelona-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-michel-cloup-trio-tiger-menja-zebra-2026-11-24",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -960,17 +707,6 @@
       "url": "https://salavol.com/agenda/michel-cloup-trio-2026",
       "image": null,
       "price": "14/17€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-sbp4-2026-11-25",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "SBP4",
-      "start": "2026-11-25T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/sbp4-25-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/SPB4-web-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1007,17 +743,6 @@
       "source": "html-text-pattern"
     },
     {
-      "id": "la-nau-romare-live-2026-11-26",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "ROMARE (Live)",
-      "start": "2026-11-26T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/romare-live-26-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/ROMARE_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "l-heliogabal-maria-fort-d-8217-marius-2026-11-27",
       "venue": "L'Heliogàbal",
       "venueUrl": "https://www.heliogabal.com",
@@ -1051,17 +776,6 @@
       "source": "jsonld"
     },
     {
-      "id": "la-nau-mia-salazar-2026-11-28",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MIA SALAZAR",
-      "start": "2026-11-28T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/mia-salazar-28-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/MiaSalazar-1-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-aie-presenta-orina-syd-depalma-2026-11-28",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1084,28 +798,6 @@
       "source": "jsonld"
     },
     {
-      "id": "la-nau-la-tia-borracha-dj-florsha-2026-11-29",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "LA TÍA BORRACHA + DJ FLORSHA",
-      "start": "2026-11-29T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/vermutia-amb-la-tia-borracha-dj-florsha-29-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/finalvermutia_WEB-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-nuki-2026-11-30",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "NUKI",
-      "start": "2026-11-30T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/nuki-30-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Nuki_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "diobar-milonga-gitana-rusa-8211-un-encuentro-de-tango-2026-11-30",
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
@@ -1115,17 +807,6 @@
       "image": "http://diobarbcn.com/wp-content/uploads/2026/10/image-21-10-26-10-38.jpeg",
       "price": null,
       "source": "jsonld"
-    },
-    {
-      "id": "la-nau-marco-castello-live-band-2026-12-02",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MARCO CASTELLO LIVE BAND",
-      "start": "2026-12-02T21:45:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/marco-castello-live-band-02-12-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/marco-castello_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "la-vol-montflorit-fulfilleds-2026-12-03",
@@ -1172,17 +853,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-chico-chico-2026-12-08",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "CHICO CHICO",
-      "start": "2026-12-08T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/chico-chico-08-12-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Chico-Chico-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-aqet-suc-ulls-secs-2026-12-09",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1191,17 +861,6 @@
       "url": "https://salavol.com/agenda/aqet-suc-ulls-secs",
       "image": null,
       "price": "10/12€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-mamas-gun-uk-2026-12-10",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MAMAS GUN (UK)",
-      "start": "2026-12-10T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/mamas-gun-uk-10-12-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/MAMAS-GUN-web-1-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1227,61 +886,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-dj-gruff-tony-esposito-live-2026-12-11",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Dj GRUFF & TONY ESPOSITO LIVE",
-      "start": "2026-12-11T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/dj-gruff-tony-esposito-live-11-12-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Esposito_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-brothers-till-we-die-we-exist-even-dead-your-knife-my-back-aimless-2026-12-12",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Brothers Till We Die + We Exist Even Dead + Your Knife My Back + Aimless",
-      "start": "2026-12-12T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/brothers-till-we-die-we-exist-even-dead-your-knife-my-back-aimless-12-12-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/YourKnife_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-tumbakin-en-concierto-2026-12-13",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "TUMBAKIN EN CONCIERTO",
-      "start": "2026-12-13T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/tumbakin-13-12-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Tumbakin-web-1-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-moses-yoofee-trio-2026-12-14",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MOSES YOOFEE TRIO",
-      "start": "2026-12-14T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/moses-yoofee-trio-14-12-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/PNT26_Moses-web-2-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-kalben-2026-12-16",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "KALBEN",
-      "start": "2026-12-16T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/kalben-16-12-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/KalbenWEB-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-buc1-segona-regional-2026-12-17",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1290,17 +894,6 @@
       "url": "https://salavol.com/agenda/buc1-segona-regional",
       "image": null,
       "price": "12/12€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-omar-souleyman-2026-12-17",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "OMAR SOULEYMAN",
-      "start": "2026-12-17T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/omar-souleyman-17-12-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/OMAR-SOULEYMAN-web-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1326,17 +919,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-rock-en-familia-descubriendo-a-extremoduro-2026-12-20",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "ROCK EN FAMILIA. Descubriendo a EXTREMODURO",
-      "start": "2026-12-20T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/rock-en-familia-descubriendo-a-extremoduro-20-12-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/RockEnFamilia-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-ubaldo-llucia-pla-2026-12-23",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1356,17 +938,6 @@
       "url": "https://salavol.com/agenda/gudar-mals-menors",
       "image": null,
       "price": "12/15€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-ezezez-2027-01-08",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "EZEZEZ",
-      "start": "2027-01-08T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/ezezez-08-01-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/EZZE-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1403,94 +974,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-axolotes-mexicanos-2027-01-16",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "AXOLOTES MEXICANOS",
-      "start": "2027-01-16T21:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/axolotes-mexicanos-16-01-2027-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/AXOLOTES-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-cala-vento-2027-01-19",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "CALA VENTO",
-      "start": "2027-01-19T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/cala-vento-19-01-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/CalaVento-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-cala-vento-2027-01-20",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "CALA VENTO",
-      "start": "2027-01-20T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/cala-vento-20-01-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/CalaVento-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-cala-vento-2027-01-21",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "CALA VENTO",
-      "start": "2027-01-21T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/cala-vento-21-01-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/CalaVento-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-cala-vento-sold-out-2027-01-22",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "CALA VENTO **SOLD OUT**",
-      "start": "2027-01-22T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/cala-vento-22-01-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/CalaVento-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-pavvla-2027-01-23",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "PAVVLA",
-      "start": "2027-01-23T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/pavvla-23-01-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Pavvla_Web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-minibus-intergalactic-2027-01-28",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MINIBÚS INTERGALÀCTIC",
-      "start": "2027-01-28T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/minibus-intergalactic-28-01-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/MINIBUS-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-tributo-a-radio-futura-el-ultimo-de-la-fila-y-heroes-del-silencio-por-mescalina-2027-01-29",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Tributo a Radio Futura, El Último De La Fila y Héroes Del Silencio por MESCALINA",
-      "start": "2027-01-29T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/mescalina-tributo-a-radio-futura-el-ultimo-de-la-fila-y-heroes-del-silencio-29-01-2027-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Portada-80sEnEspanol-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-chavalada-sound-presenta-grumpys-2027-01-29",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1499,105 +982,6 @@
       "url": "https://salavol.com/agenda/grumpys",
       "image": null,
       "price": "12€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-tributo-a-radio-futura-el-ultimo-de-la-fila-y-heroes-del-silencio-por-mescalina-2027-01-30",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Tributo a Radio Futura, El Último De La Fila y Héroes Del Silencio por MESCALINA",
-      "start": "2027-01-30T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/mescalina-tributo-a-radio-futura-el-ultimo-de-la-fila-y-heroes-del-silencio-30-01-2027-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Portada-80sEnEspanol-web-1-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-ana-lua-caiano-2027-02-05",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "ANA LUA CAIANO",
-      "start": "2027-02-05T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/ana-lua-caiano-05-02-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Ana_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-jared-james-nichols-2027-02-10",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "JARED JAMES NICHOLS",
-      "start": "2027-02-10T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/jared-james-nichols-10-02-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Jared_James_Nichols_WEB-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-sienna-2027-02-12",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "SIENNA",
-      "start": "2027-02-12T21:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/sienna-12-02-2027-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/CH27_Sienna_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-54-ultra-2027-02-15",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "54 ULTRA",
-      "start": "2027-02-15T19:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/54-ultra-21-10-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/270215-54-ULTRA-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-hofe-2027-02-19",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "HOFE",
-      "start": "2027-02-19T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/hofe-19-02-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/BSERIES27_Hofe_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-pinpilinpussies-patiment-2027-02-20",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "PINPILINPUSSIES + PATIMENT",
-      "start": "2027-02-20T21:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/pinpilinpussies-patiment-20-02-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Pinpilinpussies-web2-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-reytons-2027-03-04",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "REYTONS",
-      "start": "2027-03-04T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/reytons-04-03-2027-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Reytons-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-el-ultimo-vecino-2027-03-06",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "EL ÚLTIMO VECINO",
-      "start": "2027-03-06T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/el-ultimo-vecino-06-03-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/ElUltimoVecino_web-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1612,39 +996,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-admt-2027-03-07",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "ADMT",
-      "start": "2027-03-07T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/admt-07-03-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/ADMT_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-this-is-lorelei-2027-03-10",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "THIS IS LORELEI",
-      "start": "2027-03-10T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/this-is-lorelei-10-03-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/ThisIsLorelei-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-de-acero-2027-03-12",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "DE ACERO",
-      "start": "2027-03-12T22:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/de-acero-12-03-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/DeAcero-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-aie-presenta-janus-lester-2027-03-13",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1653,39 +1004,6 @@
       "url": "https://salavol.com/agenda/aie-presenta-janus-lester",
       "image": null,
       "price": "14/17€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-de-acero-2027-03-13",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "DE ACERO",
-      "start": "2027-03-13T22:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/de-acero-13-03-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/DeAcero-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-link-do-zap-2027-03-14",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "LINK DO ZAP",
-      "start": "2027-03-14T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/link-do-zap-14-03-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/LINK-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-vargas-blues-band-2027-03-17",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "VARGAS BLUES BAND",
-      "start": "2027-03-17T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/vargas-blues-band-17-03-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Vargas-Blues-Bandweb-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1711,17 +1029,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-leo-maiello-2027-03-22",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "LEO MAIELLO",
-      "start": "2027-03-22T21:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/leo-maiello-22-03-2027-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/LeoMaiello-1-260x250.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-tropics-aleksandir-sarah-collin-2027-03-24",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1730,17 +1037,6 @@
       "url": "https://salavol.com/agenda/tropics-aleksandir-sarah-collin",
       "image": null,
       "price": "12/15€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-hazlett-2027-03-24",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "HAZLETT",
-      "start": "2027-03-24T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/hazlett-24-03-2027/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/HAZ27_BCN_web-1-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     },
     {
@@ -1766,17 +1062,6 @@
       "source": "html-selectors"
     },
     {
-      "id": "la-nau-tributo-a-mana-jarabe-de-palo-los-rodriguez-por-mescalina-2027-04-10",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Tributo a Maná, Jarabe de Palo, Los Rodríguez por MESCALINA",
-      "start": "2027-04-10T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/mescalina-tributo-a-mana-jarabe-de-palo-los-rodriguez-10-04-2027-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Portada-Raiz-Latina-WEB-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
       "id": "la-vol-chavalada-sound-presenta-ashleys-henshin-2027-04-10",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -1796,17 +1081,6 @@
       "url": "https://salavol.com/agenda/chavalada-sound-presenta-baf",
       "image": null,
       "price": "12€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-belako-2027-10-30",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "BELAKO",
-      "start": "2027-10-30T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/belako-30-10-2027-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/CARTEL-BARCELONA-800-260x260.jpg",
-      "price": null,
       "source": "html-selectors"
     }
   ]
