@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T13:20:33.792Z",
+  "generatedAt": "2026-11-11T12:31:50.485Z",
   "counts": {
-    "robadors": 24,
+    "robadors": 32,
     "deskomunal": 1,
-    "diobar": 14,
-    "marula": 5,
+    "diobar": 15,
+    "marula": 4,
     "heliogabal": 40,
     "vol": 195
   },
@@ -13,28 +13,6 @@
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-carmen-amador-vanesa-fernandez-isabel-marsol-victor-rosell-2026-11-10",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "CARMEN AMADOR . VANESA FERNANDEZ . ISABEL MARSOL . VICTOR ROSELL",
-      "start": "2026-11-10T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/carmen-amador-vanessa-fernandez-isabel-marsol-victor-rosell/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/10-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "23robadors-david-giesel-quartet-w-albin-ormegard-thomas-fuller-moritz-langmaier-2026-11-10",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "DAVID GIESEL QUARTET w/ ALBIN ORMEGARD . THOMAS FULLER . MORITZ LANGMAIER",
-      "start": "2026-11-10T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/david-giesel-quartet-w-albin-ormegard-thomas-fuller-moritz-langmaier/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/10-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "23robadors-around-the-space-band-w-miguel-villar-juan-pablo-balcazar-marius-koopmann-2026-11-11",
       "venue": "23Robadors",
@@ -422,6 +400,17 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/20-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
+    },
+    {
+      "id": "diobar-latin-underground-la-mayor-sound-2026-11-20",
+      "venue": "Diobar",
+      "venueUrl": "https://diobarbcn.com",
+      "title": "Latin Underground! ::: La Mayor Sound",
+      "start": "2026-11-20T22:30:00.000Z",
+      "url": "https://diobarbcn.com/event/latin-underground-la-mayor-sound/",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/a3260caffdb306a27ccd650d40eb953fd1f85d09/event_gallery_afiche_La_Mayor.jpeg?v=1794389850",
+      "price": "8.26€",
+      "source": "jsonld"
     },
     {
       "id": "23robadors-sarsale-ramon-pinas-alicia-reyes-albert-pons-oscar-puig-2026-11-21",
