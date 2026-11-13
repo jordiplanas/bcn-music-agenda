@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T13:36:45.710Z",
+  "generatedAt": "2026-11-13T12:56:20.509Z",
   "counts": {
-    "robadors": 39,
+    "robadors": 24,
     "deskomunal": 1,
-    "diobar": 15,
+    "diobar": 14,
     "marula": 4,
-    "lanau": 61,
+    "lanau": 60,
     "heliogabal": 40,
     "vol": 195
   },
@@ -13,64 +13,6 @@
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "diobar-scandalo-eros-cabaret-show-x-diobar-2026-11-12",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Scandalo - Eros Cabaret Show x DioBar",
-      "start": "2026-11-12T19:00:00.000Z",
-      "url": "https://diobarbcn.com/event/eroscabaretshow/",
-      "image": [
-        "https://uploads.tickettailorassets.com/c_scale,w_1920/v1/production/userfiles/qxyqotiaiem8jtaocihy.jpg?_a=BAAHWXDQ",
-        "https://uploads.tickettailorassets.com/c_scale,w_720/v1/production/userfiles/hj0a1usvpinatogpddk3.jpg?_a=BAAHWXDQ"
-      ],
-      "price": "26.5€",
-      "source": "jsonld"
-    },
-    {
-      "id": "la-vol-greetings-from-barcelona-vol-4-traume-shakti-fiebre-lucero-del-alba-2026-11-12",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "Greetings from Barcelona Vol. 4: Traüme + Shakti + Fiebre + Lucero del Alba",
-      "start": "2026-11-12T19:00:00.000Z",
-      "url": "https://salavol.com/agenda/greetings-from-barcelona-vol-4-traume-shakti-fiebre-lucero-del-alba",
-      "image": null,
-      "price": "13.23/15€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-monica-la-chicuela-violeta-barrio-luis-cantarote-manuel-castilla-2026-11-12",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "MONICA LA CHICUELA . VIOLETA BARRIO . LUIS CANTAROTE . MANUEL CASTILLA",
-      "start": "2026-11-12T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/12-monica-la-chicuela-violeta-barrio-luis-cantarote-manuel-castilla/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/12-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "l-heliogabal-el-micro-obert-2026-11-12",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "El Micro Obert",
-      "start": "2026-11-12T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/open-mic/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/09/HELIO-MICRO_OBERT-POST.jpg",
-      "price": "5€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "23robadors-pablo-martin-trio-8211-presentacio-the-standard-us-w-hector-tejedo-kike-perez-2026-11-12",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "PABLO MARTÍN TRIO &#8211; PRESENTACIÓ «THE STANDARD US» w/ HÉCTOR TEJEDO . KIKE PÉREZ",
-      "start": "2026-11-12T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/pablo-martin-trio-presentacio-the-standard-us-w-hector-tejedo-kike-perez/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/12-JAZZ-2.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "23robadors-david-sanchez-violeta-barrio-albert-pons-ramon-olivares-2026-11-13",
       "venue": "23Robadors",
@@ -89,8 +31,8 @@
       "title": "Fiestas de Independencia Cartagena de Indias",
       "start": "2026-11-13T20:00:00.000Z",
       "url": "https://diobarbcn.com/event/independencia-cartagena-de-indias/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/8af5254f3baa363669fac869aacba2e3214865e8/event_gallery_FLYER_FIESTAS_DE_INDEPENDENCIA.jpg.jpeg?v=1793882614",
-      "price": "10.32€",
+      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/8af5254f3baa363669fac869aacba2e3214865e8/event_gallery_FLYER_FIESTAS_DE_INDEPENDENCIA.jpg.jpeg?v=1794564474",
+      "price": "12.38€",
       "source": "jsonld"
     },
     {
@@ -336,10 +278,10 @@
       "source": "html-selectors"
     },
     {
-      "id": "23robadors-around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-2026-11-18",
+      "id": "23robadors-around-the-space-band-w-miguel-villar-juan-pablo-balcazar-dani-dominguez-2026-11-18",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
-      "title": "AROUND THE SPACE BAND w/ MIGUEL VILLAR . JUAN PABLO BALCAZAR . CARLOS FALANGA",
+      "title": "AROUND THE SPACE BAND w/ MIGUEL VILLAR . JUAN PABLO BALCAZAR . DANI DOMINGUEZ",
       "start": "2026-11-18T21:00:00.000Z",
       "url": "https://23robadors.com/calendari/around-the-space-band-w-miguel-villar-juan-pablo-balcazar-carlos-falanga-43/",
       "image": "https://23robadors.com/wp-content/uploads/2026/10/LA-JAM.jpg",
