@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T12:00:45.563Z",
+  "generatedAt": "2026-11-15T12:34:35.919Z",
   "counts": {
-    "robadors": 17,
+    "robadors": 21,
     "deskomunal": 1,
-    "diobar": 13,
+    "diobar": 12,
     "marula": 4,
-    "lanau": 60,
+    "lanau": 59,
     "heliogabal": 40,
     "vol": 195
   },
@@ -13,72 +13,6 @@
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-palosanto-vanesa-cortes-ainhoa-lara-albert-pons-toto-parragues-2026-11-14",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "«PALOSANTO» VANESA CORTES . AINHOA LARA . ALBERT PONS . TOTO PARRAGUES",
-      "start": "2026-11-14T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/palo-santo-vanesa-corte-ainhoa-lara-albert-pons-toto-parragues/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/14-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "l-heliogabal-montana-2026-11-14",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Montana",
-      "start": "2026-11-14T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/montana/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/MONTANA-1-scaled.jpg",
-      "price": "16€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-vol-apartamentos-acapulco-2026-11-14",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "Apartamentos Acapulco",
-      "start": "2026-11-14T20:30:00.000Z",
-      "url": "https://salavol.com/agenda/apartamentos-acapulco-2026",
-      "image": null,
-      "price": "17/20€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "la-nau-tkm-2026-11-14",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "TKM",
-      "start": "2026-11-14T22:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/tkm-14-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/TKM-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "diobar-guajiro-experiment-vol-iii-2026-11-14",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "GUAJIRO EXPERIMENT VOL.III",
-      "start": "2026-11-14T22:30:00.000Z",
-      "url": "https://diobarbcn.com/event/guajiro-experiment-vol-iii/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/6604c27d2ee664462d0ba73ced04902bbc169b2d/event_gallery_IMG_2544.png?v=1792612366",
-      "price": "8€",
-      "source": "jsonld"
-    },
-    {
-      "id": "la-nau-gaitas-celebrando-la-feria-de-la-chinita-2026-11-15",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "GAITAS Celebrando la Feria de la Chinita",
-      "start": "2026-11-15T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/gaitas-celebrando-la-feria-de-la-chinita-15-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/GAITAS-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
     {
       "id": "23robadors-saray-perez-david-sanchez-ariadna-pajaro-tete-castilla-2026-11-15",
       "venue": "23Robadors",
@@ -562,6 +496,17 @@
       "image": "https://lanaubarcelona.es/wp-content/uploads/ROMARE_web-260x260.jpg",
       "price": null,
       "source": "html-selectors"
+    },
+    {
+      "id": "la-deskomunal-ultima-volta-groogy-rude-revenja-2026-11-27",
+      "venue": "La Deskomunal",
+      "venueUrl": "https://ladeskomunal.coop",
+      "title": "ÚLTIMA VOLTA: GROOGY RUDE + REVENJA",
+      "start": "2026-11-27T00:00:00.000Z",
+      "url": "https://ladeskomunal.coop/agenda/ultima-volta-groogy-rude-revenja/",
+      "image": "https://ladeskomunal.coop/wp-content/uploads/2026/10/11-27-C-Groggy-revenja-scaled.png",
+      "price": null,
+      "source": "jsonld"
     },
     {
       "id": "l-heliogabal-maria-fort-d-8217-marius-2026-11-27",
@@ -1165,6 +1110,17 @@
       "start": "2027-02-20T21:30:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/pinpilinpussies-patiment-20-02-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/Pinpilinpussies-web2-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-jeff-buckley-by-slow-pilot-2027-02-24",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "JEFF BUCKLEY BY SLOW PILOT",
+      "start": "2027-02-24T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/jeff-buckley-by-slow-pilot-24-02-2027/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Jeff-Buckley-web-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
