@@ -1,40 +1,18 @@
 {
-  "generatedAt": "2026-11-15T12:34:35.919Z",
+  "generatedAt": "2026-11-16T13:27:07.094Z",
   "counts": {
-    "robadors": 21,
+    "robadors": 19,
     "deskomunal": 1,
     "diobar": 12,
-    "marula": 4,
+    "marula": 5,
     "lanau": 59,
     "heliogabal": 40,
-    "vol": 195
+    "vol": 197
   },
   "errors": {
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-saray-perez-david-sanchez-ariadna-pajaro-tete-castilla-2026-11-15",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "SARAY PEREZ . DAVID SANCHEZ .  ARIADNA PAJARO . TETE CASTILLA",
-      "start": "2026-11-15T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/saray-perez-david-sanchez-ariadna-pajaro-tete-castilla/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/15-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "marula-cafe-j-glytta-2026-11-16",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "J Glytta",
-      "start": "2026-11-16T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/j-glytta/",
-      "image": "https://marulacafe.com/wp-content/uploads/2025/06/dj-yulie-marula-cafe.jpeg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
     {
       "id": "23robadors-edgar-rodero-eri-fukuhara-albert-pons-alvaro-lopez-2026-11-16",
       "venue": "23Robadors",
@@ -80,6 +58,17 @@
       "source": "html-text-pattern"
     },
     {
+      "id": "la-nau-homer-el-mero-mero-2026-11-17",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "HOMER EL MERO MERO",
+      "start": "2026-11-17T00:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/homer-el-mero-mero-17-11-2026-2/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/HomerJager-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
       "id": "23robadors-david-sanchez-isa-ribera-pablo-marin-ramon-olivares-2026-11-17",
       "venue": "23Robadors",
       "venueUrl": "https://23robadors.com",
@@ -89,17 +78,6 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/10/17-FLAM.jpg",
       "price": "10€",
       "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-homer-el-mero-mero-2026-11-17",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "HOMER EL MERO MERO",
-      "start": "2026-11-17T20:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/homer-el-mero-mero-17-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/HomerJager-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "23robadors-federica-calio-quartet-w-borja-lange-fran-guillen-tomas-diaz-2026-11-17",
@@ -608,6 +586,17 @@
       "source": "jsonld"
     },
     {
+      "id": "marula-cafe-dj-kusuri-2026-11-30",
+      "venue": "Marula Café",
+      "venueUrl": "https://marulacafe.com",
+      "title": "Dj Kusuri",
+      "start": "2026-11-30T00:00:00.000Z",
+      "url": "https://marulacafe.com/evento/dj-kusuri-5/",
+      "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
+      "price": "9€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-nau-nuki-2026-11-30",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -803,6 +792,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/moses-yoofee-trio-14-12-2026/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/PNT26_Moses-web-2-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-linalab-band-amb-roger-pibernat-espinoza-2026-12-16",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Linalab Band amb Roger Pibernat + Espinoza",
+      "start": "2026-12-16T19:45:00.000Z",
+      "url": "https://salavol.com/agenda/linalab-band-amb-roger-pibernat-espinoza",
+      "image": null,
+      "price": "10/12€",
       "source": "html-selectors"
     },
     {
@@ -1059,6 +1059,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-cvto-santacreu-2027-02-06",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Cvto + Santacreu",
+      "start": "2027-02-06T19:45:00.000Z",
+      "url": "https://salavol.com/agenda/cvto-santacreu",
+      "image": null,
+      "price": "10/12€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-jared-james-nichols-2027-02-10",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1275,6 +1286,17 @@
       "start": "2027-03-22T21:30:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/leo-maiello-22-03-2027-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/LeoMaiello-1-260x250.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-chico-qatoshi-2027-03-23",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "CHICO & QATOSHI",
+      "start": "2027-03-23T20:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/chico-qatoshi-23-03-2027/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Chico_web-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     },
