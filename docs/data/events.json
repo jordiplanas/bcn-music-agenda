@@ -1,73 +1,18 @@
 {
-  "generatedAt": "2026-11-16T13:27:07.094Z",
+  "generatedAt": "2026-11-17T14:12:21.844Z",
   "counts": {
-    "robadors": 19,
+    "robadors": 22,
     "deskomunal": 1,
-    "diobar": 12,
-    "marula": 5,
+    "diobar": 11,
+    "marula": 4,
     "lanau": 59,
     "heliogabal": 40,
-    "vol": 197
+    "vol": 200
   },
   "errors": {
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-edgar-rodero-eri-fukuhara-albert-pons-alvaro-lopez-2026-11-16",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "EDGAR RODERO . ERI FUKUHARA . ALBERT PONS . ALVARO LOPEZ",
-      "start": "2026-11-16T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/edgar-rodero-eri-fukuhara-albert-pons-alvaro-lopez/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/16-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "diobar-milonga-gitana-rusa-8211-un-encuentro-de-tango-2026-11-16",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Milonga Gitana Rusa &#8211; Un encuentro de tango",
-      "start": "2026-11-16T21:00:00.000Z",
-      "url": "https://diobarbcn.com/event/milonga-gitana-rusa3/",
-      "image": "http://diobarbcn.com/wp-content/uploads/2026/10/image-21-10-26-10-38.jpeg",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "23robadors-jordi-herrera-trio-w-dani-palaci-jose-carlos-gonzalez-2026-11-16",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "JORDI HERRERA TRIO w/ DANÍ PALACÍ . JOSE CARLOS GONZÁLEZ",
-      "start": "2026-11-16T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/jordi-herrera-trio-w-dani-palaci-jose-carlos-gonzalez/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/16-JAZZ-1.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "marula-cafe-j-glytta-2026-11-17",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "J Glytta",
-      "start": "2026-11-17T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/j-glytta-5/",
-      "image": "https://marulacafe.com/wp-content/uploads/2026/08/yulie.jpg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-nau-homer-el-mero-mero-2026-11-17",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "HOMER EL MERO MERO",
-      "start": "2026-11-17T00:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/homer-el-mero-mero-17-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/HomerJager-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
     {
       "id": "23robadors-david-sanchez-isa-ribera-pablo-marin-ramon-olivares-2026-11-17",
       "venue": "23Robadors",
@@ -304,7 +249,7 @@
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
       "title": "JAVI CANTERO",
-      "start": "2026-11-21T21:30:00.000Z",
+      "start": "2026-11-21T21:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/javi-cantero-21-11-2026-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/JaviCantero-web-260x260.jpg",
       "price": null,
@@ -377,6 +322,17 @@
       "source": "html-text-pattern"
     },
     {
+      "id": "la-nau-flotsam-and-jetsam-2026-11-23",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "FLOTSAM AND JETSAM",
+      "start": "2026-11-23T20:30:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/flotsam-and-jetsam-23-11-2026-2/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Barcelona-web-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
       "id": "diobar-milonga-gitana-rusa-8211-un-encuentro-de-tango-2026-11-23",
       "venue": "Diobar",
       "venueUrl": "https://diobarbcn.com",
@@ -386,17 +342,6 @@
       "image": "http://diobarbcn.com/wp-content/uploads/2026/10/image-21-10-26-10-38.jpeg",
       "price": null,
       "source": "jsonld"
-    },
-    {
-      "id": "la-nau-flotsam-and-jetsam-2026-11-23",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "FLOTSAM AND JETSAM",
-      "start": "2026-11-23T21:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/flotsam-and-jetsam-23-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Barcelona-web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
     },
     {
       "id": "marula-cafe-j-glytta-2026-11-24",
@@ -641,6 +586,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-markos-garcia-platz-2026-12-03",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Markos Garcia Platz",
+      "start": "2026-12-03T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/markos-garcia-platz/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/Markos-Garcia-1-scaled.jpg",
+      "price": "8€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-vol-capros-piti-y-me-voy-2026-12-04",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -663,6 +619,17 @@
       "source": "jsonld"
     },
     {
+      "id": "l-heliogabal-ikarus-valiente-bosque-2026-12-04",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Ikarûs Valiente Bosque",
+      "start": "2026-12-04T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/ikarus-i-valiente-bosque/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/v1_rojoV-IKARUS-scaled.jpg",
+      "price": "8€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-vol-catarro-fest-roko-banana-daina-alavez-2026-12-05",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -672,6 +639,17 @@
       "image": null,
       "price": "12/15€",
       "source": "html-selectors"
+    },
+    {
+      "id": "l-heliogabal-negre-2026-12-05",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Negre",
+      "start": "2026-12-05T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/negre/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/NEGRE-fabian-bover-arreza-1.jpg",
+      "price": "12€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-nau-edidetelao-2026-12-06",
@@ -718,6 +696,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-jaimitoguitarra-2026-12-10",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Jaimitoguitarra",
+      "start": "2026-12-10T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/jaimitoguitarra/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/Jaimitoguitarra-2-scaled.jpg",
+      "price": "8€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-vol-oval-presenta-leather-head-2026-12-10",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
@@ -727,6 +716,17 @@
       "image": null,
       "price": "14/16€",
       "source": "html-selectors"
+    },
+    {
+      "id": "l-heliogabal-malanima-2026-12-11",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Malánima",
+      "start": "2026-12-11T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/malanima/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/Malanima-1.jpeg",
+      "price": "8€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-vol-dahlia-2026-12-11",
@@ -773,6 +773,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-carrera-blanca-menta-poleo-2026-12-12",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Carrera Blanca Menta Poleo",
+      "start": "2026-12-12T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/carrera-blanca-menta-poleo/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/CARRERA-BLANCA_cred_Paula-Rubio-4-1-Irene-Gonzalez-Lume-2-scaled.jpg",
+      "price": "12€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-nau-tumbakin-en-concierto-2026-12-13",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -792,6 +803,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/moses-yoofee-trio-14-12-2026/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/PNT26_Moses-web-2-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-abundance-radar-entrada-amb-consumicio-inclosa-2026-12-15",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Abundance Radar (entrada amb consumició inclosa)",
+      "start": "2026-12-15T18:30:00.000Z",
+      "url": "https://salavol.com/agenda/abundance-radar-3",
+      "image": null,
+      "price": "3.5€",
       "source": "html-selectors"
     },
     {
@@ -828,6 +850,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-el-micro-obert-2026-12-17",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "El Micro Obert",
+      "start": "2026-12-17T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/el-micro-obert-2/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-09-18-at-18.55.41.jpeg",
+      "price": "5€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-nau-omar-souleyman-2026-12-17",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -861,6 +894,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "l-heliogabal-sabana-laura-garriga-2026-12-19",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Sabana Laura Garriga",
+      "start": "2026-12-19T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/sabana-laura-garriga/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/Sabana-Toni-Miralles-i-Mestre-1.png",
+      "price": "10€",
+      "source": "html-text-pattern"
+    },
+    {
       "id": "la-nau-rock-en-familia-descubriendo-a-extremoduro-2026-12-20",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -881,6 +925,28 @@
       "image": null,
       "price": "12/15€",
       "source": "html-selectors"
+    },
+    {
+      "id": "l-heliogabal-rita-valldeperas-2026-12-25",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Rita Valldeperas",
+      "start": "2026-12-25T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/rita-valldeperas/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/Rita-Valldeperas-3-Julius-Valldeperas-1-scaled.jpg",
+      "price": "15€",
+      "source": "html-text-pattern"
+    },
+    {
+      "id": "l-heliogabal-glossip-2026-12-26",
+      "venue": "L'Heliogàbal",
+      "venueUrl": "https://www.heliogabal.com",
+      "title": "Glossip",
+      "start": "2026-12-26T20:30:00.000Z",
+      "url": "https://www.heliogabal.com/glossip/",
+      "image": "https://www.heliogabal.com/wp-content/uploads/2026/11/GLOSSIP-PROMO-4-Ester-Herrero-1-scaled.jpg",
+      "price": "10€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-vol-gudar-los-mals-menors-2027-01-08",
@@ -993,6 +1059,17 @@
       "source": "html-selectors"
     },
     {
+      "id": "la-vol-the-rowchess-six-in-town-2027-01-22",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "The Rowchess + Six in town",
+      "start": "2027-01-22T19:45:00.000Z",
+      "url": "https://salavol.com/agenda/the-rowchess-six-in-town",
+      "image": null,
+      "price": "10/12€",
+      "source": "html-selectors"
+    },
+    {
       "id": "la-nau-pavvla-2027-01-23",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -1089,6 +1166,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/sienna-12-02-2027-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/CH27_Sienna_web-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-tzetze-pablo-volt-i-j-g-g-2027-02-13",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Tzetze + Pablo Volt i J.G.G.",
+      "start": "2027-02-13T19:45:00.000Z",
+      "url": "https://salavol.com/agenda/tze-tze-pablo-volt-i-j-g-g",
+      "image": null,
+      "price": "12/15€",
       "source": "html-selectors"
     },
     {
