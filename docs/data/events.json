@@ -1,40 +1,18 @@
 {
-  "generatedAt": "2026-11-17T14:12:21.844Z",
+  "generatedAt": "2026-11-18T13:45:48.875Z",
   "counts": {
-    "robadors": 22,
+    "robadors": 17,
     "deskomunal": 1,
     "diobar": 11,
-    "marula": 4,
-    "lanau": 59,
+    "marula": 3,
+    "lanau": 58,
     "heliogabal": 40,
-    "vol": 200
+    "vol": 201
   },
   "errors": {
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-david-sanchez-isa-ribera-pablo-marin-ramon-olivares-2026-11-17",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "DAVID SANCHEZ . ISA RIBERA . PABLO MARIN . RAMON OLIVARES",
-      "start": "2026-11-17T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/david-sanchez-isa-ribera-pablo-marin-ramon-olivares/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/17-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "23robadors-federica-calio-quartet-w-borja-lange-fran-guillen-tomas-diaz-2026-11-17",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "FEDERICA CALIO QUARTET w/ BORJA LANGE . FRAN GUILLÉN . TOMÁS DÍAZ",
-      "start": "2026-11-17T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/federica-calio-quartet-w-borja-lange-fran-guillen-tomas-diaz/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/17-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "la-vol-heavenphetamine-2026-11-18",
       "venue": "La Vol",
@@ -968,6 +946,17 @@
       "url": "https://lanaubarcelona.es/ca/agenda/ezezez-08-01-2027/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/EZZE-260x260.jpg",
       "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-vol-tronkas-ramona-flores-2027-01-09",
+      "venue": "La Vol",
+      "venueUrl": "https://salavol.com",
+      "title": "Tronkas! + Ramona Flores",
+      "start": "2027-01-09T19:45:00.000Z",
+      "url": "https://salavol.com/agenda/tronkas-ramona-flores",
+      "image": null,
+      "price": "13€",
       "source": "html-selectors"
     },
     {
