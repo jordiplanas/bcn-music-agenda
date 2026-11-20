@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T14:12:28.925Z",
+  "generatedAt": "2026-11-20T13:54:32.655Z",
   "counts": {
-    "robadors": 27,
+    "robadors": 20,
     "deskomunal": 1,
     "diobar": 11,
     "marula": 3,
@@ -13,61 +13,6 @@
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "23robadors-fran-carmona-ramon-pinas-sandra-herrera-exequiel-coria-2026-11-19",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "FRAN CARMONA . RAMON PIÑAS . SANDRA HERRERA . EXEQUIEL CORIA",
-      "start": "2026-11-19T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/fran-carmona-ramon-pinas-sandra-herrera-exequiel-coria/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/19-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "la-nau-mt-jones-uk-2026-11-19",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "MT JONES (UK)",
-      "start": "2026-11-19T20:30:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/mt-jones-uk-19-11-2026-2/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/MTJones-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "l-heliogabal-ian-moya-carla-iglesias-marta-8217-s-2026-11-19",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Ian Moya  Carla Iglesias marta&#8217;s",
-      "start": "2026-11-19T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/ian-moya-carla-iglesias-martas/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/martas-Marta-Argemi-Farran.jpeg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "la-vol-l-equip-presenta-rudiger-2026-11-19",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "L'Equip presenta: Rüdiger",
-      "start": "2026-11-19T20:30:00.000Z",
-      "url": "https://salavol.com/agenda/lequipe-presenta-rudiger",
-      "image": null,
-      "price": "10/12€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-martin-leiton-quartet-takin-off-feat-oscar-latorre-w-anti-de-la-rubia-toni-saigi-andreu-pitarch-2026-11-19",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "MARTÍN LEITON QUARTET «TAKIN’ OFF» feat. OSCAR LATORRE w/ ANTI DE LA RUBIA . TONI SAIGI . ANDREU PITARCH",
-      "start": "2026-11-19T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/martin-leiton-quartet-takin-off-feat-oscar-latorre-w-anti-de-la-rubia-toni-saigi-andreu-pitarch/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/19-JAZZ-1.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
     {
       "id": "la-vol-eh-sona-toc-txopet-2026-11-20",
       "venue": "La Vol",
@@ -179,10 +124,10 @@
       "source": "html-text-pattern"
     },
     {
-      "id": "la-vol-chavalada-sound-presenta-nepal-nepal-2026-11-21",
+      "id": "la-vol-entrades-exhaurides-chavalada-sound-presenta-nepal-nepal-2026-11-21",
       "venue": "La Vol",
       "venueUrl": "https://salavol.com",
-      "title": "Chavalada Sound presenta: Nepal Nepal",
+      "title": "(Entrades exhaurides) Chavalada Sound presenta: Nepal Nepal",
       "start": "2026-11-21T20:30:00.000Z",
       "url": "https://salavol.com/agenda/nepal-nepal",
       "image": null,
@@ -586,17 +531,6 @@
       "source": "tribe-events-api"
     },
     {
-      "id": "marula-cafe-dj-kusuri-2026-11-30",
-      "venue": "Marula Café",
-      "venueUrl": "https://marulacafe.com",
-      "title": "Dj Kusuri",
-      "start": "2026-11-30T00:00:00.000Z",
-      "url": "https://marulacafe.com/evento/dj-kusuri-5/",
-      "image": "https://marulacafe.com/wp-content/uploads/2025/02/engin-akyurt-VFKxeErl3O0-unsplash.jpg",
-      "price": "9€",
-      "source": "html-text-pattern"
-    },
-    {
       "id": "la-nau-nuki-2026-11-30",
       "venue": "La Nau",
       "venueUrl": "https://lanaubarcelona.es",
@@ -639,6 +573,17 @@
       "image": "https://23robadors.com/wp-content/uploads/2026/11/30-JAZZ.jpg",
       "price": "10€",
       "source": "tribe-events-api"
+    },
+    {
+      "id": "marula-cafe-j-glytta-2026-12-01",
+      "venue": "Marula Café",
+      "venueUrl": "https://marulacafe.com",
+      "title": "J Glytta",
+      "start": "2026-12-01T00:00:00.000Z",
+      "url": "https://marulacafe.com/evento/j-glytta-7/",
+      "image": "https://marulacafe.com/wp-content/uploads/2026/08/yulie.jpg",
+      "price": "9€",
+      "source": "html-text-pattern"
     },
     {
       "id": "la-nau-marco-castello-live-band-2026-12-02",
