@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T13:54:32.655Z",
+  "generatedAt": "2026-11-21T13:18:15.685Z",
   "counts": {
-    "robadors": 20,
+    "robadors": 18,
     "deskomunal": 1,
-    "diobar": 11,
+    "diobar": 9,
     "marula": 3,
     "lanau": 58,
     "heliogabal": 40,
@@ -13,83 +13,6 @@
     "cat": "http://www.tradicionarius.cat/ca/programacio -> HTTP 404"
   },
   "events": [
-    {
-      "id": "la-vol-eh-sona-toc-txopet-2026-11-20",
-      "venue": "La Vol",
-      "venueUrl": "https://salavol.com",
-      "title": "EH Sona: TOC + Txopet",
-      "start": "2026-11-20T19:30:00.000Z",
-      "url": "https://salavol.com/agenda/eh-sona-toc-nize",
-      "image": null,
-      "price": "12/14€",
-      "source": "html-selectors"
-    },
-    {
-      "id": "23robadors-magda-mane-nito-albert-pons-chus-tobalo-2026-11-20",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "MAGDA MAÑE . NITO . ALBERT PONS . CHUS TOBALO",
-      "start": "2026-11-20T20:00:00.000Z",
-      "url": "https://23robadors.com/calendari/magda-mane-nito-albert-pons-chus-tobalo/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/20-FLAM.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "diobar-maitukem-the-basement-tapes-232-2026-11-20",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Maitukem ::: «The Basement Tapes #232»",
-      "start": "2026-11-20T20:00:00.000Z",
-      "url": "https://diobarbcn.com/event/maitukem_basement_tapes232/",
-      "image": "http://diobarbcn.com/wp-content/uploads/2026/11/Maitukem-afiche.jpg",
-      "price": null,
-      "source": "jsonld"
-    },
-    {
-      "id": "la-nau-fes-t-pau-2026-11-20",
-      "venue": "La Nau",
-      "venueUrl": "https://lanaubarcelona.es",
-      "title": "Fes(t) Pau",
-      "start": "2026-11-20T20:00:00.000Z",
-      "url": "https://lanaubarcelona.es/ca/agenda/fest-pau-20-11-2026/",
-      "image": "https://lanaubarcelona.es/wp-content/uploads/Festa-Pau_web-260x260.jpg",
-      "price": null,
-      "source": "html-selectors"
-    },
-    {
-      "id": "l-heliogabal-ricardo-lezon-2026-11-20",
-      "venue": "L'Heliogàbal",
-      "venueUrl": "https://www.heliogabal.com",
-      "title": "Ricardo Lezón",
-      "start": "2026-11-20T20:30:00.000Z",
-      "url": "https://www.heliogabal.com/ricardo-lezon/",
-      "image": "https://www.heliogabal.com/wp-content/uploads/2026/10/RICARDOLEZON-Subterfuge-Records-1-scaled.jpg",
-      "price": "20€",
-      "source": "html-text-pattern"
-    },
-    {
-      "id": "23robadors-icar-toset-organ-trio-w-abel-boquera-dani-dominguez-2026-11-20",
-      "venue": "23Robadors",
-      "venueUrl": "https://23robadors.com",
-      "title": "ICAR TOSET ORGAN TRIO w/ ABEL BOQUERA . DANI DOMINGUEZ",
-      "start": "2026-11-20T22:00:00.000Z",
-      "url": "https://23robadors.com/calendari/icar-toset-organ-trio-w-abel-boquera-dani-dominguez/",
-      "image": "https://23robadors.com/wp-content/uploads/2026/10/20-JAZZ.jpg",
-      "price": "10€",
-      "source": "tribe-events-api"
-    },
-    {
-      "id": "diobar-latin-underground-la-mayor-sound-2026-11-20",
-      "venue": "Diobar",
-      "venueUrl": "https://diobarbcn.com",
-      "title": "Latin Underground! ::: La Mayor Sound",
-      "start": "2026-11-20T22:30:00.000Z",
-      "url": "https://diobarbcn.com/event/latin-underground-la-mayor-sound/",
-      "image": "https://d2il8hfach02z9.cloudfront.net/uploads/event/poster/a3260caffdb306a27ccd650d40eb953fd1f85d09/event_gallery_afiche_La_Mayor.jpeg?v=1794389850",
-      "price": "8.26€",
-      "source": "jsonld"
-    },
     {
       "id": "la-nau-los-vecinos-de-manue-2026-11-21",
       "venue": "La Nau",
@@ -1528,6 +1451,17 @@
       "start": "2027-10-30T00:00:00.000Z",
       "url": "https://lanaubarcelona.es/ca/agenda/belako-30-10-2027-2/",
       "image": "https://lanaubarcelona.es/wp-content/uploads/CARTEL-BARCELONA-800-260x260.jpg",
+      "price": null,
+      "source": "html-selectors"
+    },
+    {
+      "id": "la-nau-proyecto-gomez-casa-2027-11-18",
+      "venue": "La Nau",
+      "venueUrl": "https://lanaubarcelona.es",
+      "title": "PROYECTO GOMEZ CASA",
+      "start": "2027-11-18T21:00:00.000Z",
+      "url": "https://lanaubarcelona.es/ca/agenda/proyecto-gomez-casa-18-11-2026/",
+      "image": "https://lanaubarcelona.es/wp-content/uploads/Barcelona_1080x1080-260x260.jpg",
       "price": null,
       "source": "html-selectors"
     }
